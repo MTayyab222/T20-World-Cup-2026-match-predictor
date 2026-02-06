@@ -1,0 +1,601 @@
+Match_ID,Date,Venue,Team_A,Team_B,Stage,Team_A_Ranking,Team_B_Ranking,Team_A_Form,Team_B_Form,HeadToHead_A_Wins,HeadToHead_B_Wins,Venue_HomeAdvantage_A,Venue_HomeAdvantage_B,Pitch_Type,Avg_T20_Score_Venue,Toss_Winner,Toss_Decision,Team_A_Tech_Index,Team_B_Tech_Index,Match_Total,Winner,Team_A_encoded,Team_B_encoded,Venue_encoded,Stage_encoded,Pitch_Type_encoded,Toss_Winner_encoded,Toss_Decision_encoded,Toss_Winner_Binary,Toss_Decision_Binary,Winner_Binary
+M0001,3/6/2026,Chennai,New Zealand,Scotland,Super8,5,13,76.97,54.62,6,4,0,0,Spin-Friendly,155,Team_A,Field,251.27,156.37,168,Team_A,10,14,1,3,2,0,1,1,1,1
+M0002,3/7/2026,Mumbai,South Africa,Sri Lanka,Final,6,9,64.19,58.75,13,6,0,0,Flat,175,Team_B,Bat,249.33,187.44,150,Team_A,15,16,6,0,0,1,0,0,0,1
+M0003,3/2/2026,Kolkata,India,PNG,Group,1,20,69.87,45.14,13,0,1,0,Spin-Friendly,165,Team_B,Field,298.24,54.03,160,Team_A,5,12,5,1,2,1,1,0,1,1
+M0004,2/22/2026,Colombo,Netherlands,Ireland,Group,11,12,85.59,61.94,10,4,0,0,Spin-Friendly,160,Team_A,Bat,197.19,174.95,145,Team_A,9,6,2,1,2,0,0,1,0,1
+M0005,2/28/2026,Mumbai,Namibia,South Africa,Group,15,6,45.98,88.52,3,15,0,0,Flat,175,Team_B,Bat,124.91,271.68,185,Team_B,7,15,6,1,0,1,0,0,0,0
+M0006,2/24/2026,Colombo,Afghanistan,USA,Group,8,17,53.35,58.92,7,3,0,0,Spin-Friendly,160,Team_B,Field,204.72,117.29,163,Team_A,0,17,2,1,2,1,1,0,1,1
+M0007,3/2/2026,Ahmedabad,USA,Nepal,Group,17,19,46.84,40.99,4,2,0,0,Flat,180,Team_B,Bat,115.43,76.68,153,Team_A,17,8,0,1,0,1,0,0,0,1
+M0008,2/13/2026,Kolkata,Oman,South Africa,Group,16,6,38.69,71.34,2,4,0,0,Spin-Friendly,165,Team_B,Bat,101.28,248.24,192,Team_B,11,15,5,1,2,1,0,0,0,0
+M0009,2/16/2026,Delhi,Canada,Ireland,Group,18,12,37.61,54.91,2,1,0,0,Pace-Friendly,170,Team_A,Bat,77.14,179.31,166,Team_B,3,6,3,1,1,0,0,1,0,0
+M0010,2/24/2026,Colombo,Pakistan,South Africa,Group,4,6,85.8,61.02,2,2,0,0,Spin-Friendly,160,Team_B,Bat,284.02,241.05,150,Team_A,13,15,2,1,2,1,0,0,0,1
+M0011,2/27/2026,Kolkata,Netherlands,PNG,Group,11,20,63.61,57.38,18,9,0,0,Spin-Friendly,165,Team_B,Bat,211.39,76.02,157,Team_A,9,12,5,1,2,1,0,0,0,1
+M0012,2/21/2026,Chennai,India,Netherlands,Group,1,11,65.81,70.42,8,2,1,0,Spin-Friendly,155,Team_A,Field,298.06,194.08,155,Team_A,5,9,1,1,2,0,1,1,1,1
+M0013,3/5/2026,Ahmedabad,Ireland,West Indies,Super8,12,7,49.92,62.98,2,0,0,0,Flat,180,Team_B,Bat,169.53,243.85,194,Team_B,6,18,0,3,0,1,0,0,0,0
+M0014,2/11/2026,Kolkata,Nepal,Canada,Group,19,18,57.72,47.76,15,10,0,0,Spin-Friendly,165,Team_B,Bat,92.1,91.53,131,Team_A,8,3,5,1,2,1,0,0,0,1
+M0015,2/26/2026,Chennai,Canada,Bangladesh,Group,18,10,48.96,64.61,1,18,0,0,Spin-Friendly,155,Team_A,Field,74.12,206.97,137,Team_B,3,2,1,1,2,0,1,1,1,0
+M0016,3/6/2026,Mumbai,Sri Lanka,England,Group,9,3,68.53,74.34,5,13,0,0,Flat,175,Team_B,Bat,227.62,288.54,182,Team_B,16,4,6,1,0,1,0,0,0,0
+M0017,2/10/2026,Colombo,Canada,Zimbabwe,Group,18,14,26.81,53.73,10,20,0,0,Spin-Friendly,160,Team_A,Field,74.03,139.87,144,Team_B,3,19,2,1,2,0,1,1,1,0
+M0018,2/12/2026,Kolkata,New Zealand,Oman,Group,5,16,76.78,47.41,14,3,0,0,Spin-Friendly,165,Team_A,Bat,259.7,106.06,190,Team_A,10,11,5,1,2,0,0,1,0,1
+M0019,2/16/2026,Chennai,USA,West Indies,Super8,17,7,55.91,58.91,0,1,0,0,Spin-Friendly,155,Team_A,Bat,123.95,234.84,143,Team_B,17,18,1,3,2,0,0,1,0,0
+M0020,2/28/2026,Ahmedabad,PNG,Oman,Group,20,16,37.07,59.23,2,5,0,0,Flat,180,Team_B,Field,68.66,127.2,162,Team_B,12,11,0,1,0,1,1,0,1,0
+M0021,2/20/2026,Kolkata,Netherlands,South Africa,Final,11,6,49.38,74.74,2,1,0,0,Spin-Friendly,165,Team_A,Field,175.14,245.45,136,Team_B,9,15,5,0,2,0,1,1,1,0
+M0022,2/8/2026,Ahmedabad,Oman,Sri Lanka,Group,16,9,46.43,69.56,2,3,0,0,Flat,180,Team_B,Bat,120.25,224.02,170,Team_B,11,16,0,1,0,1,0,0,0,0
+M0023,2/10/2026,Chennai,Namibia,Pakistan,Group,15,4,54.6,81.82,2,12,0,0,Spin-Friendly,155,Team_B,Field,143.79,273.68,176,Team_B,7,13,1,1,2,1,1,0,1,0
+M0024,2/21/2026,Chennai,Nepal,Zimbabwe,Group,19,14,46.26,62.47,0,2,0,0,Spin-Friendly,155,Team_A,Field,88.61,146.36,177,Team_B,8,19,1,1,2,0,1,1,1,0
+M0025,2/9/2026,Ahmedabad,Scotland,India,Group,13,1,44.09,86.57,2,5,0,1,Flat,180,Team_A,Field,143.28,308.72,212,Team_B,14,5,0,1,0,0,1,1,1,0
+M0026,3/3/2026,Ahmedabad,Australia,Scotland,Group,2,13,82.24,65.41,18,6,0,0,Flat,180,Team_A,Bat,304.28,164.58,160,Team_A,1,14,0,1,0,0,0,1,0,1
+M0027,2/25/2026,Kolkata,Zimbabwe,New Zealand,SemiFinal,14,5,53.23,75.41,6,7,0,0,Spin-Friendly,165,Team_B,Field,152.5,262.92,191,Team_B,19,10,5,2,2,1,1,0,1,0
+M0028,2/28/2026,Mumbai,England,Scotland,Group,3,13,61.94,55.65,2,1,0,0,Flat,175,Team_A,Bat,266.17,164.71,191,Team_A,4,14,6,1,0,0,0,1,0,1
+M0029,3/5/2026,Chennai,Australia,Bangladesh,Group,2,10,82.73,61.27,13,11,0,0,Spin-Friendly,155,Team_A,Field,293.11,207.09,153,Team_A,1,2,1,1,2,0,1,1,1,1
+M0030,2/19/2026,Kandy,India,Namibia,Group,1,15,70.74,46.87,23,4,0,0,Pace-Friendly,162,Team_A,Field,303.32,133.15,154,Team_A,5,7,4,1,1,0,1,1,1,1
+M0031,2/23/2026,Kolkata,Zimbabwe,PNG,Group,14,20,54.58,30.57,5,6,0,0,Spin-Friendly,165,Team_B,Field,151.16,65.1,170,Team_A,19,12,5,1,2,1,1,0,1,1
+M0032,2/11/2026,Delhi,India,Australia,Group,1,2,89.05,71.96,13,16,1,0,Pace-Friendly,170,Team_B,Bat,324.37,326.78,203,Team_B,5,1,3,1,1,1,0,0,0,0
+M0033,2/26/2026,Colombo,Pakistan,Oman,Group,4,16,83.54,56.51,18,7,0,0,Spin-Friendly,160,Team_A,Field,273.12,112.51,138,Team_A,13,11,2,1,2,0,1,1,1,1
+M0034,2/9/2026,Chennai,Pakistan,Canada,Group,4,18,73.6,40.65,6,1,0,0,Spin-Friendly,155,Team_A,Field,277.89,74.15,160,Team_A,13,3,1,1,2,0,1,1,1,1
+M0035,3/8/2026,Chennai,Nepal,West Indies,Group,19,7,44.64,57.22,6,16,0,0,Spin-Friendly,155,Team_B,Field,89.04,211.86,208,Team_B,8,18,1,1,2,1,1,0,1,0
+M0036,2/14/2026,Chennai,Sri Lanka,West Indies,Group,9,7,77.63,76.29,10,4,0,0,Spin-Friendly,155,Team_A,Bat,212.63,242.58,160,Team_B,16,18,1,1,2,0,0,1,0,0
+M0037,3/6/2026,Kolkata,Scotland,Afghanistan,Group,13,8,48.07,64.85,0,2,0,0,Spin-Friendly,165,Team_B,Field,141.1,240.14,147,Team_B,14,0,5,1,2,1,1,0,1,0
+M0038,2/23/2026,Kandy,Australia,Canada,Group,2,18,81.18,29.88,7,1,0,0,Pace-Friendly,162,Team_A,Bat,295.09,88.82,212,Team_A,1,3,4,1,1,0,0,1,0,1
+M0039,2/22/2026,Colombo,South Africa,Australia,Group,6,2,54.81,73.16,10,17,0,0,Spin-Friendly,160,Team_A,Field,224.91,302.13,134,Team_B,15,1,2,1,2,0,1,1,1,0
+M0040,2/24/2026,Kandy,Oman,USA,Group,16,17,37.05,46.95,7,5,0,0,Pace-Friendly,162,Team_B,Field,122.11,97.91,159,Team_B,11,17,4,1,1,1,1,0,1,0
+M0041,2/25/2026,Kolkata,Canada,Oman,Group,18,16,60.41,35.64,5,7,0,0,Spin-Friendly,165,Team_A,Field,110.05,110.92,155,Team_A,3,11,5,1,2,0,1,1,1,1
+M0042,3/1/2026,Chennai,India,Sri Lanka,Group,1,9,86.47,65.26,20,9,1,0,Spin-Friendly,155,Team_B,Bat,333.16,206.56,143,Team_A,5,16,1,1,2,1,0,0,0,1
+M0043,2/22/2026,Kolkata,Zimbabwe,Ireland,Group,14,12,52.48,63.88,18,12,0,0,Spin-Friendly,165,Team_A,Bat,138.19,175.54,165,Team_B,19,6,5,1,2,0,0,1,0,0
+M0044,3/6/2026,Ahmedabad,Pakistan,Afghanistan,Group,4,8,67.78,62.45,15,12,0,0,Flat,180,Team_B,Bat,276.97,214.9,207,Team_B,13,0,0,1,0,1,0,0,0,0
+M0045,2/20/2026,Kolkata,South Africa,Scotland,Group,6,13,61.71,50.4,17,10,0,0,Spin-Friendly,165,Team_A,Bat,219.41,139.83,175,Team_A,15,14,5,1,2,0,0,1,0,1
+M0046,3/1/2026,Delhi,New Zealand,West Indies,Group,5,7,87.53,63.6,5,7,0,0,Pace-Friendly,170,Team_A,Field,289.97,235.37,172,Team_B,10,18,3,1,1,0,1,1,1,0
+M0047,2/17/2026,Chennai,PNG,USA,Group,20,17,45.24,46.7,12,8,0,0,Spin-Friendly,155,Team_B,Field,86.54,112.02,117,Team_A,12,17,1,1,2,1,1,0,1,1
+M0048,2/28/2026,Colombo,Namibia,Canada,Group,15,18,64.05,34.03,15,14,0,0,Spin-Friendly,160,Team_B,Field,147.84,85.46,135,Team_A,7,3,2,1,2,1,1,0,1,1
+M0049,3/3/2026,Ahmedabad,Netherlands,Namibia,Group,11,15,60.76,45.23,12,8,0,0,Flat,180,Team_A,Bat,184.29,134.86,217,Team_A,9,7,0,1,0,0,0,1,0,1
+M0050,2/17/2026,Ahmedabad,USA,Scotland,Group,17,13,43.67,58.04,12,13,0,0,Flat,180,Team_A,Bat,102.3,165.09,143,Team_B,17,14,0,1,0,0,0,1,0,0
+M0051,2/20/2026,Delhi,India,South Africa,Group,1,6,72.82,67.87,10,8,1,0,Pace-Friendly,170,Team_A,Bat,287.72,263.63,172,Team_A,5,15,3,1,1,0,0,1,0,1
+M0052,2/28/2026,Delhi,Zimbabwe,India,Group,14,1,47.18,79.52,0,7,0,1,Pace-Friendly,170,Team_B,Field,143.76,304.1,203,Team_B,19,5,3,1,1,1,1,0,1,0
+M0053,2/21/2026,Mumbai,England,Ireland,Group,3,12,74.91,62.02,7,1,0,0,Flat,175,Team_A,Field,284.97,181.28,193,Team_A,4,6,6,1,0,0,1,1,1,1
+M0054,2/12/2026,Delhi,Sri Lanka,PNG,Group,9,20,68.74,42.54,2,0,0,0,Pace-Friendly,170,Team_B,Field,224.35,81.02,182,Team_B,16,12,3,1,1,1,1,0,1,0
+M0055,3/1/2026,Chennai,Australia,Afghanistan,Group,2,8,86.72,67.83,7,1,0,0,Spin-Friendly,155,Team_B,Field,299.84,237.64,143,Team_A,1,0,1,1,2,1,1,0,1,1
+M0056,2/10/2026,Chennai,Nepal,PNG,Group,19,20,42.42,28.45,4,3,0,0,Spin-Friendly,155,Team_B,Field,76.35,55.65,184,Team_A,8,12,1,1,2,1,1,0,1,1
+M0057,2/7/2026,Mumbai,PNG,Australia,Group,20,2,51.5,72.23,2,24,0,0,Flat,175,Team_B,Bat,88.24,308.04,187,Team_B,12,1,6,1,0,1,0,0,0,0
+M0058,2/8/2026,Colombo,Ireland,Sri Lanka,Group,12,9,57.26,61.18,15,14,0,1,Spin-Friendly,160,Team_B,Field,153.56,223.21,172,Team_B,6,16,2,1,2,1,1,0,1,0
+M0059,2/26/2026,Kolkata,Ireland,Bangladesh,Group,12,10,42.06,56.01,7,18,0,0,Spin-Friendly,165,Team_B,Bat,154.13,198.03,186,Team_A,6,2,5,1,2,1,0,0,0,1
+M0060,3/2/2026,Kandy,England,Pakistan,Group,3,4,72.87,58.01,15,9,0,0,Pace-Friendly,162,Team_A,Field,286.63,264.12,150,Team_B,4,13,4,1,1,0,1,1,1,0
+M0061,3/4/2026,Mumbai,Nepal,New Zealand,Group,19,5,28.66,84.78,1,13,0,0,Flat,175,Team_A,Bat,70.6,293.16,210,Team_B,8,10,6,1,0,0,0,1,0,0
+M0062,2/17/2026,Mumbai,New Zealand,Bangladesh,Super8,5,10,73.7,73.53,14,9,0,0,Flat,175,Team_B,Bat,263.71,216.11,213,Team_A,10,2,6,3,0,1,0,0,0,1
+M0063,2/23/2026,Mumbai,Nepal,Scotland,Group,19,13,34.35,62.86,4,12,0,0,Flat,175,Team_B,Field,60.5,179.62,183,Team_B,8,14,6,1,0,1,1,0,1,0
+M0064,3/4/2026,Chennai,Oman,Ireland,Group,16,12,52.0,36.29,5,4,0,0,Spin-Friendly,155,Team_B,Field,133.03,135.25,125,Team_A,11,6,1,1,2,1,1,0,1,1
+M0065,2/14/2026,Kandy,Scotland,Canada,Group,13,18,59.84,45.67,17,10,0,0,Pace-Friendly,162,Team_B,Field,174.02,85.74,159,Team_A,14,3,4,1,1,1,1,0,1,1
+M0066,2/19/2026,Kandy,Afghanistan,Zimbabwe,Group,8,14,54.99,58.88,0,0,0,0,Pace-Friendly,162,Team_B,Field,204.49,160.52,159,Team_A,0,19,4,1,1,1,1,0,1,1
+M0067,2/15/2026,Colombo,Zimbabwe,England,Group,14,3,48.7,68.07,2,16,0,0,Spin-Friendly,160,Team_B,Field,126.82,272.54,111,Team_B,19,4,2,1,2,1,1,0,1,0
+M0068,2/22/2026,Kolkata,South Africa,Bangladesh,Group,6,10,68.98,62.42,0,0,0,0,Spin-Friendly,165,Team_B,Field,235.38,203.73,151,Team_A,15,2,5,1,2,1,1,0,1,1
+M0069,2/21/2026,Kandy,West Indies,Bangladesh,Group,7,10,74.14,69.58,19,10,0,0,Pace-Friendly,162,Team_B,Field,241.36,194.55,184,Team_A,18,2,4,1,1,1,1,0,1,1
+M0070,2/16/2026,Ahmedabad,South Africa,USA,Super8,6,17,63.73,26.08,11,4,0,0,Flat,180,Team_A,Bat,251.55,90.97,243,Team_A,15,17,0,3,0,0,0,1,0,1
+M0071,2/18/2026,Chennai,India,Oman,SemiFinal,1,16,78.72,40.44,18,3,1,0,Spin-Friendly,155,Team_B,Field,306.24,101.21,143,Team_A,5,11,1,2,2,1,1,0,1,1
+M0072,2/10/2026,Colombo,USA,Namibia,Super8,17,15,37.39,45.46,11,15,0,0,Spin-Friendly,160,Team_B,Field,107.68,131.31,178,Team_B,17,7,2,3,2,1,1,0,1,0
+M0073,2/18/2026,Colombo,Namibia,Nepal,Super8,15,19,52.77,35.39,3,3,0,0,Spin-Friendly,160,Team_B,Field,128.05,88.04,135,Team_A,7,8,2,3,2,1,1,0,1,1
+M0074,2/18/2026,Colombo,Australia,Zimbabwe,Super8,2,14,91.96,40.9,13,4,0,0,Spin-Friendly,160,Team_B,Bat,294.77,135.01,141,Team_A,1,19,2,3,2,1,0,0,0,1
+M0075,3/5/2026,Kandy,Oman,Scotland,Group,16,13,44.08,47.36,4,10,0,0,Pace-Friendly,162,Team_A,Field,96.05,158.04,165,Team_B,11,14,4,1,1,0,1,1,1,0
+M0076,2/8/2026,Ahmedabad,Scotland,Bangladesh,Group,13,10,58.37,64.74,9,16,0,0,Flat,180,Team_B,Bat,167.58,191.72,200,Team_A,14,2,0,1,0,1,0,0,0,1
+M0077,3/5/2026,Ahmedabad,Sri Lanka,Australia,Group,9,2,47.31,83.43,9,15,0,0,Flat,180,Team_A,Bat,186.79,299.42,140,Team_B,16,1,0,1,0,0,0,1,0,0
+M0078,2/11/2026,Kandy,Australia,Namibia,Group,2,15,73.41,48.93,20,5,0,0,Pace-Friendly,162,Team_A,Bat,302.52,118.84,145,Team_A,1,7,4,1,1,0,0,1,0,1
+M0079,2/15/2026,Delhi,PNG,Bangladesh,Group,20,10,35.48,62.47,5,20,0,0,Pace-Friendly,170,Team_A,Bat,61.47,203.36,203,Team_B,12,2,3,1,1,0,0,1,0,0
+M0080,3/4/2026,Mumbai,Bangladesh,Namibia,Group,10,15,54.77,76.34,16,9,0,0,Flat,175,Team_A,Bat,194.18,157.91,174,Team_A,2,7,6,1,0,0,0,1,0,1
+M0081,3/2/2026,Kolkata,India,Bangladesh,Group,1,10,80.87,60.44,9,4,1,0,Spin-Friendly,165,Team_A,Field,313.91,200.95,160,Team_A,5,2,5,1,2,0,1,1,1,1
+M0082,2/25/2026,Delhi,Ireland,Australia,Group,12,2,54.82,74.81,1,2,0,0,Pace-Friendly,170,Team_B,Field,172.73,315.41,174,Team_B,6,1,3,1,1,1,1,0,1,0
+M0083,3/8/2026,Kandy,England,Netherlands,Group,3,11,88.01,55.92,19,8,0,0,Pace-Friendly,162,Team_B,Field,295.4,164.08,159,Team_A,4,9,4,1,1,1,1,0,1,1
+M0084,3/6/2026,Chennai,Canada,PNG,Super8,18,20,30.2,42.16,4,8,0,0,Spin-Friendly,155,Team_B,Field,83.23,50.47,163,Team_A,3,12,1,3,2,1,1,0,1,1
+M0085,3/7/2026,Ahmedabad,Zimbabwe,Sri Lanka,Super8,14,9,39.21,75.44,0,2,0,0,Flat,180,Team_B,Bat,137.29,229.42,199,Team_A,19,16,0,3,0,1,0,0,0,1
+M0086,2/25/2026,Colombo,India,Pakistan,Group,1,4,75.13,78.04,11,6,0,0,Spin-Friendly,160,Team_B,Bat,315.77,269.99,150,Team_A,5,13,2,1,2,1,0,0,0,1
+M0087,2/26/2026,Delhi,Scotland,Zimbabwe,Group,13,14,60.79,57.34,8,5,0,0,Pace-Friendly,170,Team_A,Field,176.29,147.78,154,Team_A,14,19,3,1,1,0,1,1,1,1
+M0088,2/24/2026,Kandy,Zimbabwe,West Indies,Group,14,7,63.64,77.74,8,15,0,0,Pace-Friendly,162,Team_A,Bat,160.95,264.35,136,Team_B,19,18,4,1,1,0,0,1,0,0
+M0089,2/21/2026,Kandy,Australia,Oman,Group,2,16,60.21,64.96,10,2,0,0,Pace-Friendly,162,Team_B,Field,285.66,158.11,160,Team_A,1,11,4,1,1,1,1,0,1,1
+M0090,2/18/2026,Mumbai,England,PNG,Group,3,20,93.82,47.9,26,4,0,0,Flat,175,Team_A,Field,300.3,82.47,221,Team_A,4,12,6,1,0,0,1,1,1,1
+M0091,2/9/2026,Ahmedabad,Oman,Nepal,Group,16,19,65.93,38.89,5,8,0,0,Flat,180,Team_A,Field,137.21,85.14,219,Team_A,11,8,0,1,0,0,1,1,1,1
+M0092,2/25/2026,Ahmedabad,Netherlands,Scotland,Group,11,13,54.12,54.67,18,12,0,0,Flat,180,Team_B,Field,172.02,146.63,191,Team_A,9,14,0,1,0,1,1,0,1,1
+M0093,2/20/2026,Kandy,PNG,Afghanistan,Group,20,8,29.1,53.05,7,20,0,0,Pace-Friendly,162,Team_A,Field,47.88,200.96,145,Team_B,12,0,4,1,1,0,1,1,1,0
+M0094,2/23/2026,Delhi,South Africa,Canada,Group,6,18,69.93,32.81,5,1,0,0,Pace-Friendly,170,Team_A,Field,251.29,89.98,212,Team_A,15,3,3,1,1,0,1,1,1,1
+M0095,2/24/2026,Kandy,Pakistan,Sri Lanka,Group,4,9,71.31,52.93,9,2,0,1,Pace-Friendly,162,Team_A,Field,273.32,198.2,156,Team_A,13,16,4,1,1,0,1,1,1,1
+M0096,2/24/2026,Kandy,Netherlands,Australia,Group,11,2,52.17,84.74,9,15,0,0,Pace-Friendly,162,Team_A,Field,173.59,304.37,151,Team_B,9,1,4,1,1,0,1,1,1,0
+M0097,2/12/2026,Ahmedabad,Afghanistan,England,Group,8,3,58.87,77.06,4,4,0,0,Flat,180,Team_B,Field,219.98,268.59,132,Team_B,0,4,0,1,0,1,1,0,1,0
+M0098,2/25/2026,Kolkata,England,Namibia,Super8,3,15,64.22,54.04,18,3,0,0,Spin-Friendly,165,Team_B,Bat,258.96,126.61,181,Team_A,4,7,5,3,2,1,0,0,0,1
+M0099,3/2/2026,Ahmedabad,USA,Australia,Group,17,2,57.36,90.72,0,16,0,0,Flat,180,Team_A,Bat,114.12,308.89,184,Team_B,17,1,0,1,0,0,0,1,0,0
+M0100,3/2/2026,Mumbai,India,Afghanistan,Group,1,8,85.0,55.47,8,2,1,0,Flat,175,Team_A,Field,314.28,202.47,191,Team_A,5,0,6,1,0,0,1,1,1,1
+M0101,2/28/2026,Ahmedabad,West Indies,Australia,Super8,7,2,64.39,89.59,1,1,0,0,Flat,180,Team_B,Bat,230.73,306.09,197,Team_B,18,1,0,3,0,1,0,0,0,0
+M0102,2/15/2026,Chennai,Oman,Namibia,Group,16,15,37.58,43.84,2,4,0,0,Spin-Friendly,155,Team_A,Bat,93.13,127.49,169,Team_A,11,7,1,1,2,0,0,1,0,1
+M0103,2/22/2026,Delhi,Nepal,India,Group,19,1,23.18,95.0,0,16,0,1,Pace-Friendly,170,Team_B,Bat,70.96,325.95,196,Team_B,8,5,3,1,1,1,0,0,0,0
+M0104,2/13/2026,Ahmedabad,Canada,Netherlands,Group,18,11,67.55,66.72,2,7,0,0,Flat,180,Team_A,Field,120.52,191.25,186,Team_B,3,9,0,1,0,0,1,1,1,0
+M0105,2/7/2026,Ahmedabad,New Zealand,Canada,Group,5,18,66.6,38.22,15,0,0,0,Flat,180,Team_B,Bat,245.57,94.23,222,Team_A,10,3,0,1,0,1,0,0,0,1
+M0106,2/24/2026,Delhi,Ireland,India,Group,12,1,53.31,85.27,1,25,0,1,Pace-Friendly,170,Team_B,Bat,170.96,324.33,214,Team_B,6,5,3,1,1,1,0,0,0,0
+M0107,2/21/2026,Ahmedabad,Sri Lanka,Scotland,Group,9,13,45.59,43.2,17,12,0,0,Flat,180,Team_A,Field,186.81,149.99,173,Team_A,16,14,0,1,0,0,1,1,1,1
+M0108,2/27/2026,Colombo,Zimbabwe,Netherlands,Group,14,11,38.76,52.02,5,8,0,0,Spin-Friendly,160,Team_B,Bat,120.55,181.24,193,Team_A,19,9,2,1,2,1,0,0,0,1
+M0109,2/26/2026,Kandy,New Zealand,Afghanistan,Group,5,8,76.93,67.85,7,7,0,0,Pace-Friendly,162,Team_B,Bat,273.79,205.69,156,Team_A,10,0,4,1,1,1,0,0,0,1
+M0110,2/19/2026,Delhi,New Zealand,Netherlands,Super8,5,11,55.1,69.87,9,7,0,0,Pace-Friendly,170,Team_A,Bat,246.82,210.04,201,Team_A,10,9,3,3,1,0,0,1,0,1
+M0111,3/3/2026,Mumbai,England,USA,Group,3,17,83.08,42.38,4,1,0,0,Flat,175,Team_A,Bat,287.18,112.21,180,Team_A,4,17,6,1,0,0,0,1,0,1
+M0112,2/18/2026,Kandy,Netherlands,Sri Lanka,SemiFinal,11,9,46.81,61.74,5,6,0,1,Pace-Friendly,162,Team_A,Bat,175.85,210.62,194,Team_A,9,16,4,2,1,0,0,1,0,1
+M0113,2/11/2026,Delhi,Pakistan,Nepal,Group,4,19,82.34,48.59,22,2,0,0,Pace-Friendly,170,Team_A,Bat,272.13,88.13,188,Team_A,13,8,3,1,1,0,0,1,0,1
+M0114,2/25/2026,Kandy,New Zealand,Namibia,Group,5,15,76.47,49.87,14,10,0,0,Pace-Friendly,162,Team_B,Field,268.15,138.52,162,Team_A,10,7,4,1,1,1,1,0,1,1
+M0115,2/17/2026,Delhi,USA,Netherlands,Group,17,11,57.38,54.84,5,22,0,0,Pace-Friendly,170,Team_B,Bat,108.54,184.85,186,Team_A,17,9,3,1,1,1,0,0,0,1
+M0116,3/4/2026,Mumbai,Ireland,Scotland,Group,12,13,55.39,57.35,5,3,0,0,Flat,175,Team_A,Bat,182.57,164.12,166,Team_A,6,14,6,1,0,0,0,1,0,1
+M0117,2/8/2026,Ahmedabad,Sri Lanka,Canada,Group,9,18,66.67,54.9,9,2,0,0,Flat,180,Team_B,Bat,216.38,106.87,188,Team_A,16,3,0,1,0,1,0,0,0,1
+M0118,2/26/2026,Delhi,New Zealand,Australia,Group,5,2,66.9,53.15,7,9,0,0,Pace-Friendly,170,Team_B,Field,255.34,288.78,179,Team_B,10,1,3,1,1,1,1,0,1,0
+M0119,2/21/2026,Ahmedabad,Zimbabwe,South Africa,Group,14,6,49.8,67.18,8,21,0,0,Flat,180,Team_A,Bat,135.75,241.97,141,Team_B,19,15,0,1,0,0,0,1,0,0
+M0120,2/21/2026,Ahmedabad,England,Canada,Group,3,18,65.29,52.83,2,1,0,0,Flat,180,Team_B,Field,285.97,102.71,191,Team_A,4,3,0,1,0,1,1,0,1,1
+M0121,2/14/2026,Ahmedabad,Netherlands,West Indies,Group,11,7,48.77,71.82,14,8,0,0,Flat,180,Team_B,Field,184.11,256.39,162,Team_B,9,18,0,1,0,1,1,0,1,0
+M0122,2/18/2026,Mumbai,Afghanistan,South Africa,Group,8,6,60.82,64.01,11,18,0,0,Flat,175,Team_B,Bat,205.73,256.72,187,Team_B,0,15,6,1,0,1,0,0,0,0
+M0123,3/4/2026,Ahmedabad,PNG,Scotland,Group,20,13,33.68,60.71,8,12,0,0,Flat,180,Team_B,Bat,58.83,160.29,231,Team_B,12,14,0,1,0,1,0,0,0,0
+M0124,2/15/2026,Mumbai,Bangladesh,England,Group,10,3,53.6,77.65,10,13,0,0,Flat,175,Team_A,Bat,183.5,287.35,190,Team_B,2,4,6,1,0,0,0,1,0,0
+M0125,2/16/2026,Mumbai,England,Oman,Group,3,16,82.59,70.1,27,3,0,0,Flat,175,Team_B,Bat,281.4,132.04,174,Team_A,4,11,6,1,0,1,0,0,0,1
+M0126,2/19/2026,Delhi,India,New Zealand,Group,1,5,71.59,71.92,14,6,1,0,Pace-Friendly,170,Team_B,Field,298.65,265.71,191,Team_A,5,10,3,1,1,1,1,0,1,1
+M0127,2/28/2026,Colombo,Scotland,Pakistan,Group,13,4,81.27,68.69,10,19,0,0,Spin-Friendly,160,Team_A,Field,191.06,258.44,140,Team_B,14,13,2,1,2,0,1,1,1,0
+M0128,2/16/2026,Mumbai,West Indies,PNG,Group,7,20,70.4,45.06,4,1,0,0,Flat,175,Team_A,Bat,248.56,79.91,214,Team_A,18,12,6,1,0,0,0,1,0,1
+M0129,2/11/2026,Kolkata,Ireland,PNG,Group,12,20,71.82,48.49,2,0,0,0,Spin-Friendly,165,Team_B,Field,178.86,67.82,157,Team_A,6,12,5,1,2,1,1,0,1,1
+M0130,3/2/2026,Kandy,USA,Sri Lanka,Group,17,9,52.18,68.0,8,20,0,1,Pace-Friendly,162,Team_A,Field,116.11,212.38,159,Team_B,17,16,4,1,1,0,1,1,1,0
+M0131,2/19/2026,Delhi,Namibia,Zimbabwe,Super8,15,14,58.45,75.63,3,1,0,0,Pace-Friendly,170,Team_A,Bat,143.79,166.42,183,Team_B,7,19,3,3,1,0,0,1,0,0
+M0132,3/2/2026,Kolkata,West Indies,Pakistan,Group,7,4,80.09,59.59,9,5,0,0,Spin-Friendly,165,Team_A,Field,241.32,259.94,151,Team_B,18,13,5,1,2,0,1,1,1,0
+M0133,2/26/2026,Chennai,Bangladesh,USA,Group,10,17,63.33,41.0,7,2,0,0,Spin-Friendly,155,Team_B,Bat,199.09,98.82,147,Team_A,2,17,1,1,2,1,0,0,0,1
+M0134,2/22/2026,Kandy,PNG,Namibia,Group,20,15,40.69,31.65,12,16,0,0,Pace-Friendly,162,Team_A,Bat,67.05,129.9,111,Team_B,12,7,4,1,1,0,0,1,0,0
+M0135,3/3/2026,Chennai,Ireland,New Zealand,Group,12,5,62.4,66.98,4,5,0,0,Spin-Friendly,155,Team_B,Field,181.37,260.66,123,Team_B,6,10,1,1,2,1,1,0,1,0
+M0136,3/4/2026,Kolkata,South Africa,Ireland,Group,6,12,68.85,64.33,12,7,0,0,Spin-Friendly,165,Team_A,Field,228.65,168.8,160,Team_A,15,6,5,1,2,0,1,1,1,1
+M0137,2/24/2026,Mumbai,India,England,Group,1,3,77.59,79.52,18,11,1,0,Flat,175,Team_A,Field,309.38,290.49,180,Team_A,5,4,6,1,0,0,1,1,1,1
+M0138,3/3/2026,Ahmedabad,Afghanistan,Nepal,Super8,8,19,71.06,43.71,5,0,0,0,Flat,180,Team_B,Bat,223.8,87.36,200,Team_A,0,8,0,3,0,1,0,0,0,1
+M0139,3/8/2026,Ahmedabad,Nepal,South Africa,Group,19,6,50.43,83.29,0,7,0,0,Flat,180,Team_B,Field,100.42,270.42,166,Team_B,8,15,0,1,0,1,1,0,1,0
+M0140,2/23/2026,Chennai,India,West Indies,Group,1,7,83.75,60.43,7,4,1,0,Spin-Friendly,155,Team_A,Bat,317.43,213.78,142,Team_A,5,18,1,1,2,0,0,1,0,1
+M0141,3/8/2026,Mumbai,West Indies,Afghanistan,Group,7,8,76.41,59.47,2,1,0,0,Flat,175,Team_B,Field,245.79,209.27,160,Team_A,18,0,6,1,0,1,1,0,1,1
+M0142,2/22/2026,Kandy,West Indies,Oman,Group,7,16,92.72,45.04,17,5,0,0,Pace-Friendly,162,Team_A,Field,270.61,120.44,149,Team_A,18,11,4,1,1,0,1,1,1,1
+M0143,2/7/2026,Ahmedabad,Nepal,England,Group,19,3,43.96,64.42,1,7,0,0,Flat,180,Team_A,Field,88.16,291.47,170,Team_B,8,4,0,1,0,0,1,1,1,0
+M0144,2/20/2026,Delhi,USA,India,Group,17,1,45.31,79.14,0,3,0,1,Pace-Friendly,170,Team_B,Bat,99.7,308.09,209,Team_B,17,5,3,1,1,1,0,0,0,0
+M0145,3/4/2026,Colombo,Netherlands,Oman,Group,11,16,54.29,55.73,14,5,0,0,Spin-Friendly,160,Team_B,Bat,177.29,117.34,186,Team_B,9,11,2,1,2,1,0,0,0,0
+M0146,2/7/2026,Delhi,Afghanistan,Oman,Group,8,16,69.93,56.81,12,8,0,0,Pace-Friendly,170,Team_A,Field,228.33,124.53,189,Team_A,0,11,3,1,1,0,1,1,1,1
+M0147,2/14/2026,Mumbai,Ireland,USA,SemiFinal,12,17,78.75,41.11,11,7,0,0,Flat,175,Team_B,Bat,191.4,105.14,159,Team_A,6,17,6,2,0,1,0,0,0,1
+M0148,2/9/2026,Mumbai,PNG,New Zealand,Group,20,5,48.19,83.29,4,26,0,0,Flat,175,Team_A,Bat,92.81,278.78,183,Team_B,12,10,6,1,0,0,0,1,0,0
+M0149,2/15/2026,Mumbai,Scotland,West Indies,Group,13,7,62.14,57.77,5,18,0,0,Flat,175,Team_A,Bat,176.06,228.49,207,Team_A,14,18,6,1,0,0,0,1,0,1
+M0150,2/27/2026,Colombo,West Indies,Namibia,Group,7,15,49.36,42.98,2,1,0,0,Spin-Friendly,160,Team_B,Bat,215.95,130.16,169,Team_A,18,7,2,1,2,1,0,0,0,1
+M0151,2/12/2026,Colombo,India,Canada,Group,1,18,90.79,45.61,22,4,0,0,Spin-Friendly,160,Team_B,Field,311.72,87.43,164,Team_A,5,3,2,1,2,1,1,0,1,1
+M0152,2/9/2026,Kolkata,Pakistan,New Zealand,Group,4,5,79.33,59.46,11,11,0,0,Spin-Friendly,165,Team_B,Bat,273.12,245.83,173,Team_A,13,10,5,1,2,1,0,0,0,1
+M0153,2/17/2026,Ahmedabad,South Africa,England,Group,6,3,64.5,69.28,17,12,0,0,Flat,180,Team_B,Bat,250.29,279.75,165,Team_B,15,4,0,1,0,1,0,0,0,0
+M0154,2/8/2026,Mumbai,PNG,South Africa,SemiFinal,20,6,40.43,80.62,4,20,0,0,Flat,175,Team_A,Bat,80.42,249.91,156,Team_B,12,15,6,2,0,0,0,1,0,0
+M0155,2/17/2026,Colombo,Pakistan,Bangladesh,Group,4,10,61.05,73.61,4,4,0,0,Spin-Friendly,160,Team_A,Field,247.41,211.03,131,Team_A,13,2,2,1,2,0,1,1,1,1
+M0156,3/7/2026,Chennai,England,New Zealand,Group,3,5,73.41,84.34,18,12,0,0,Spin-Friendly,155,Team_B,Bat,291.41,274.34,142,Team_A,4,10,1,1,2,1,0,0,0,1
+M0157,3/8/2026,Mumbai,Nepal,Australia,Group,19,2,40.78,95.0,3,22,0,0,Flat,175,Team_B,Field,83.68,329.39,178,Team_B,8,1,6,1,0,1,1,0,1,0
+M0158,3/5/2026,Delhi,Australia,Pakistan,Group,2,4,74.73,68.49,4,1,0,0,Pace-Friendly,170,Team_B,Bat,304.55,270.91,183,Team_A,1,13,3,1,1,1,0,0,0,1
+M0159,2/21/2026,Mumbai,Zimbabwe,Bangladesh,Group,14,10,54.79,42.02,4,15,0,0,Flat,175,Team_B,Bat,149.9,180.44,198,Team_B,19,2,6,1,0,1,0,0,0,0
+M0160,3/6/2026,Colombo,USA,Canada,Group,17,18,26.99,75.38,14,15,0,0,Spin-Friendly,160,Team_B,Field,92.66,113.46,140,Team_B,17,3,2,1,2,1,1,0,1,0
+M0161,2/8/2026,Kandy,West Indies,South Africa,Group,7,6,61.76,89.14,2,0,0,0,Pace-Friendly,162,Team_B,Bat,237.74,265.0,203,Team_B,18,15,4,1,1,1,0,0,0,0
+M0162,2/11/2026,Ahmedabad,PNG,Pakistan,Group,20,4,51.63,77.08,3,24,0,0,Flat,180,Team_B,Bat,91.27,288.57,173,Team_B,12,13,0,1,0,1,0,0,0,0
+M0163,2/18/2026,Mumbai,Netherlands,Pakistan,Group,11,4,76.33,62.54,2,10,0,0,Flat,175,Team_A,Bat,210.38,262.52,210,Team_B,9,13,6,1,0,0,0,1,0,0
+M0164,2/21/2026,Mumbai,Sri Lanka,New Zealand,Group,9,5,69.64,75.56,9,15,0,0,Flat,175,Team_A,Bat,223.16,257.73,200,Team_B,16,10,6,1,0,0,0,1,0,0
+M0165,2/15/2026,Colombo,Australia,England,Group,2,3,75.02,89.76,2,5,0,0,Spin-Friendly,160,Team_A,Bat,289.99,287.53,113,Team_A,1,4,2,1,2,0,0,1,0,1
+M0166,2/10/2026,Delhi,Sri Lanka,Afghanistan,Group,9,8,55.15,81.53,4,4,0,0,Pace-Friendly,170,Team_B,Field,194.04,220.94,207,Team_A,16,0,3,1,1,1,1,0,1,1
+M0167,3/8/2026,Colombo,USA,Zimbabwe,Group,17,14,41.12,76.52,6,9,0,0,Spin-Friendly,160,Team_A,Bat,98.39,175.13,152,Team_B,17,19,2,1,2,0,0,1,0,0
+M0168,2/21/2026,Colombo,Pakistan,Ireland,Group,4,12,62.43,42.67,2,0,0,0,Spin-Friendly,160,Team_B,Field,269.41,172.19,178,Team_A,13,6,2,1,2,1,1,0,1,1
+M0169,3/7/2026,Mumbai,Nepal,Ireland,Group,19,12,49.95,66.53,5,4,0,0,Flat,175,Team_A,Field,87.93,185.27,182,Team_B,8,6,6,1,0,0,1,1,1,0
+M0170,2/18/2026,Kandy,Bangladesh,Sri Lanka,Group,10,9,61.66,54.5,6,10,0,1,Pace-Friendly,162,Team_A,Bat,188.55,189.67,195,Team_A,2,16,4,1,1,0,0,1,0,1
+M0171,2/22/2026,Kandy,Sri Lanka,Nepal,Group,9,19,73.18,28.29,0,0,1,0,Pace-Friendly,162,Team_B,Field,212.36,55.6,157,Team_A,16,8,4,1,1,1,1,0,1,1
+M0172,2/11/2026,Delhi,South Africa,New Zealand,Group,6,5,60.31,77.51,9,10,0,0,Pace-Friendly,170,Team_A,Bat,238.7,272.07,164,Team_B,15,10,3,1,1,0,0,1,0,0
+M0173,2/23/2026,Chennai,Namibia,Scotland,Group,15,13,51.8,61.52,7,6,0,0,Spin-Friendly,155,Team_B,Field,125.97,161.23,155,Team_A,7,14,1,1,2,1,1,0,1,1
+M0174,2/9/2026,Colombo,Zimbabwe,Pakistan,Group,14,4,66.06,77.84,5,9,0,0,Spin-Friendly,160,Team_B,Field,150.05,271.34,166,Team_B,19,13,2,1,2,1,1,0,1,0
+M0175,2/24/2026,Kandy,USA,Pakistan,Group,17,4,35.56,67.07,5,15,0,0,Pace-Friendly,162,Team_A,Field,104.38,264.59,168,Team_B,17,13,4,1,1,0,1,1,1,0
+M0176,2/8/2026,Kandy,Ireland,Afghanistan,Group,12,8,60.39,58.18,10,16,0,0,Pace-Friendly,162,Team_A,Field,166.49,210.66,177,Team_B,6,0,4,1,1,0,1,1,1,0
+M0177,2/14/2026,Colombo,Afghanistan,Canada,Group,8,18,64.15,44.7,11,0,0,0,Spin-Friendly,160,Team_B,Field,235.94,104.09,138,Team_A,0,3,2,1,2,1,1,0,1,1
+M0178,2/15/2026,Delhi,West Indies,England,Group,7,3,82.59,59.15,2,2,0,0,Pace-Friendly,170,Team_B,Field,247.77,285.06,180,Team_A,18,4,3,1,1,1,1,0,1,1
+M0179,2/25/2026,Delhi,Netherlands,Afghanistan,Group,11,8,65.69,82.28,1,3,0,0,Pace-Friendly,170,Team_A,Field,182.88,226.59,159,Team_B,9,0,3,1,1,0,1,1,1,0
+M0180,3/8/2026,Kandy,Oman,Bangladesh,Super8,16,10,42.41,62.33,8,10,0,0,Pace-Friendly,162,Team_A,Field,116.28,184.69,180,Team_A,11,2,4,3,1,0,1,1,1,1
+M0181,3/3/2026,Colombo,West Indies,Canada,Group,7,18,48.06,49.74,15,3,0,0,Spin-Friendly,160,Team_B,Field,218.42,111.71,179,Team_A,18,3,2,1,2,1,1,0,1,1
+M0182,2/7/2026,Colombo,Sri Lanka,Namibia,Group,9,15,64.96,45.19,7,8,1,0,Spin-Friendly,160,Team_B,Field,220.47,116.63,128,Team_A,16,7,2,1,2,1,1,0,1,1
+M0183,2/28/2026,Kandy,Ireland,Namibia,Group,12,15,56.89,42.96,6,6,0,0,Pace-Friendly,162,Team_B,Field,183.0,116.44,130,Team_A,6,7,4,1,1,1,1,0,1,1
+M0184,2/22/2026,Chennai,Afghanistan,Bangladesh,Group,8,10,66.73,69.8,6,8,0,0,Spin-Friendly,155,Team_A,Bat,247.28,212.55,149,Team_A,0,2,1,1,2,0,0,1,0,1
+M0185,3/2/2026,Mumbai,USA,New Zealand,Group,17,5,49.34,70.48,7,20,0,0,Flat,175,Team_B,Field,103.17,255.36,162,Team_B,17,10,6,1,0,1,1,0,1,0
+M0186,2/10/2026,Delhi,Netherlands,Nepal,Group,11,19,60.87,51.08,8,2,0,0,Pace-Friendly,170,Team_A,Field,178.04,73.86,219,Team_A,9,8,3,1,1,0,1,1,1,1
+M0187,2/8/2026,Ahmedabad,Bangladesh,Nepal,SemiFinal,10,19,61.94,52.38,3,6,0,0,Flat,180,Team_B,Field,193.66,96.1,195,Team_A,2,8,0,2,0,1,1,0,1,1
+M0188,3/5/2026,Kolkata,Netherlands,Bangladesh,Group,11,10,65.68,68.0,4,6,0,0,Spin-Friendly,165,Team_B,Bat,185.08,201.55,153,Team_A,9,2,5,1,2,1,0,0,0,1
+M0189,2/22/2026,Chennai,Oman,Zimbabwe,Group,16,14,50.28,53.91,14,14,0,0,Spin-Friendly,155,Team_B,Field,116.48,145.09,171,Team_A,11,19,1,1,2,1,1,0,1,1
+M0190,2/14/2026,Chennai,Afghanistan,Namibia,Group,8,15,59.5,57.3,4,2,0,0,Spin-Friendly,155,Team_B,Bat,212.97,133.66,142,Team_A,0,7,1,1,2,1,0,0,0,1
+M0191,2/14/2026,Delhi,USA,New Zealand,Group,17,5,48.57,77.3,7,13,0,0,Pace-Friendly,170,Team_A,Bat,96.55,264.12,146,Team_B,17,10,3,1,1,0,0,1,0,0
+M0192,2/28/2026,Ahmedabad,Netherlands,Bangladesh,SemiFinal,11,10,62.83,54.07,9,15,0,0,Flat,180,Team_A,Bat,201.08,198.62,210,Team_B,9,2,0,2,0,0,0,1,0,0
+M0193,2/27/2026,Chennai,Scotland,New Zealand,Group,13,5,57.49,68.63,14,15,0,0,Spin-Friendly,155,Team_B,Field,152.18,248.54,129,Team_B,14,10,1,1,2,1,1,0,1,0
+M0194,2/16/2026,Mumbai,Canada,Australia,Group,18,2,49.02,71.72,0,20,0,0,Flat,175,Team_A,Field,101.91,295.75,201,Team_B,3,1,6,1,0,0,1,1,1,0
+M0195,3/2/2026,Delhi,USA,Ireland,Group,17,12,57.5,43.15,9,14,0,0,Pace-Friendly,170,Team_A,Field,111.54,157.08,186,Team_A,17,6,3,1,1,0,1,1,1,1
+M0196,3/8/2026,Kolkata,USA,Afghanistan,Group,17,8,42.93,54.29,7,22,0,0,Spin-Friendly,165,Team_A,Field,104.06,222.36,103,Team_B,17,0,5,1,2,0,1,1,1,0
+M0197,3/6/2026,Colombo,India,Canada,Group,1,18,74.54,49.92,27,2,0,0,Spin-Friendly,160,Team_B,Field,300.58,96.07,165,Team_A,5,3,2,1,2,1,1,0,1,1
+M0198,3/8/2026,Ahmedabad,Nepal,South Africa,Group,19,6,32.07,69.6,1,9,0,0,Flat,180,Team_B,Bat,70.69,266.49,140,Team_B,8,15,0,1,0,1,0,0,0,0
+M0199,3/6/2026,Kolkata,Zimbabwe,Afghanistan,Group,14,8,68.71,63.91,8,8,0,0,Spin-Friendly,165,Team_B,Bat,167.45,216.94,136,Team_B,19,0,5,1,2,1,0,0,0,0
+M0200,2/21/2026,Colombo,Pakistan,Sri Lanka,Group,4,9,73.12,73.21,12,8,0,1,Spin-Friendly,160,Team_B,Field,277.85,226.81,195,Team_A,13,16,2,1,2,1,1,0,1,1
+M0201,2/25/2026,Mumbai,India,Oman,Group,1,16,80.32,42.47,20,1,1,0,Flat,175,Team_A,Bat,312.23,128.24,179,Team_A,5,11,6,1,0,0,0,1,0,1
+M0202,2/20/2026,Kandy,Nepal,Zimbabwe,Super8,19,14,46.37,49.45,3,13,0,0,Pace-Friendly,162,Team_B,Bat,75.59,135.68,170,Team_B,8,19,4,3,1,1,0,0,0,0
+M0203,2/22/2026,Kolkata,England,Netherlands,Group,3,11,65.53,65.37,8,2,0,0,Spin-Friendly,165,Team_A,Bat,273.79,180.5,169,Team_A,4,9,5,1,2,0,0,1,0,1
+M0204,2/17/2026,Mumbai,Australia,Bangladesh,Group,2,10,84.07,75.11,7,2,0,0,Flat,175,Team_A,Bat,305.49,207.9,206,Team_A,1,2,6,1,0,0,0,1,0,1
+M0205,2/10/2026,Colombo,Sri Lanka,Namibia,Group,9,15,68.56,73.65,12,2,1,0,Spin-Friendly,160,Team_B,Bat,231.4,166.84,177,Team_A,16,7,2,1,2,1,0,0,0,1
+M0206,3/3/2026,Colombo,West Indies,New Zealand,Group,7,5,59.46,75.59,3,6,0,0,Spin-Friendly,160,Team_A,Field,215.9,243.06,156,Team_B,18,10,2,1,2,0,1,1,1,0
+M0207,2/14/2026,Kolkata,Ireland,Canada,Super8,12,18,55.79,43.23,16,14,0,0,Spin-Friendly,165,Team_A,Field,155.06,96.94,165,Team_A,6,3,5,3,2,0,1,1,1,1
+M0208,2/20/2026,Mumbai,Netherlands,New Zealand,Group,11,5,68.38,63.86,7,15,0,0,Flat,175,Team_B,Field,198.3,261.74,204,Team_B,9,10,6,1,0,1,1,0,1,0
+M0209,2/14/2026,Kandy,Scotland,Australia,Group,13,2,57.81,65.03,9,12,0,0,Pace-Friendly,162,Team_A,Field,162.26,288.34,182,Team_B,14,1,4,1,1,0,1,1,1,0
+M0210,2/10/2026,Delhi,Sri Lanka,Scotland,Group,9,13,64.3,41.08,0,1,0,0,Pace-Friendly,170,Team_A,Field,210.78,159.9,219,Team_A,16,14,3,1,1,0,1,1,1,1
+M0211,2/21/2026,Delhi,England,Pakistan,Group,3,4,81.66,56.39,1,2,0,0,Pace-Friendly,170,Team_A,Field,297.08,265.59,171,Team_A,4,13,3,1,1,0,1,1,1,1
+M0212,3/4/2026,Chennai,Sri Lanka,South Africa,Group,9,6,61.5,69.8,0,1,0,0,Spin-Friendly,155,Team_B,Bat,211.02,235.0,156,Team_B,16,15,1,1,2,1,0,0,0,0
+M0213,2/21/2026,Delhi,South Africa,New Zealand,Group,6,5,86.7,75.95,11,10,0,0,Pace-Friendly,170,Team_B,Field,265.78,259.06,199,Team_A,15,10,3,1,1,1,1,0,1,1
+M0214,2/13/2026,Colombo,PNG,England,Group,20,3,27.5,64.94,0,18,0,0,Spin-Friendly,160,Team_A,Bat,59.28,267.95,171,Team_B,12,4,2,1,2,0,0,1,0,0
+M0215,3/8/2026,Ahmedabad,Sri Lanka,Zimbabwe,Group,9,14,66.25,63.33,18,10,0,0,Flat,180,Team_A,Field,223.7,151.32,183,Team_A,16,19,0,1,0,0,1,1,1,1
+M0216,3/3/2026,Kolkata,Netherlands,Oman,Super8,11,16,61.81,41.64,3,1,0,0,Spin-Friendly,165,Team_B,Bat,178.1,111.12,217,Team_B,9,11,5,3,2,1,0,0,0,0
+M0217,2/19/2026,Chennai,Ireland,Namibia,Group,12,15,78.62,64.08,1,1,0,0,Spin-Friendly,155,Team_A,Field,183.62,149.51,170,Team_A,6,7,1,1,2,0,1,1,1,1
+M0218,2/19/2026,Delhi,Australia,Afghanistan,Group,2,8,89.16,59.51,9,7,0,0,Pace-Friendly,170,Team_A,Field,313.87,221.33,152,Team_A,1,0,3,1,1,0,1,1,1,1
+M0219,2/16/2026,Ahmedabad,Netherlands,Zimbabwe,Group,11,14,52.83,35.33,11,3,0,0,Flat,180,Team_B,Bat,182.67,118.41,198,Team_A,9,19,0,1,0,1,0,0,0,1
+M0220,2/11/2026,Mumbai,Afghanistan,Sri Lanka,Group,8,9,84.62,53.23,3,5,0,0,Flat,175,Team_A,Field,232.81,189.56,190,Team_A,0,16,6,1,0,0,1,1,1,1
+M0221,2/28/2026,Kandy,Australia,Pakistan,Group,2,4,95.0,89.43,9,4,0,0,Pace-Friendly,162,Team_A,Bat,307.71,282.04,175,Team_A,1,13,4,1,1,0,0,1,0,1
+M0222,2/26/2026,Chennai,Netherlands,Pakistan,Group,11,4,41.04,75.7,10,11,0,0,Spin-Friendly,155,Team_A,Bat,158.11,261.75,149,Team_A,9,13,1,1,2,0,0,1,0,1
+M0223,2/13/2026,Delhi,Pakistan,PNG,Group,4,20,62.3,13.28,23,1,0,0,Pace-Friendly,170,Team_A,Bat,265.95,41.05,138,Team_A,13,12,3,1,1,0,0,1,0,1
+M0224,2/25/2026,Colombo,West Indies,Namibia,Group,7,15,77.0,59.78,8,2,0,0,Spin-Friendly,160,Team_B,Bat,233.81,141.0,189,Team_A,18,7,2,1,2,1,0,0,0,1
+M0225,2/14/2026,Delhi,Nepal,Scotland,Group,19,13,43.0,53.96,3,10,0,0,Pace-Friendly,170,Team_B,Bat,85.84,157.39,149,Team_B,8,14,3,1,1,1,0,0,0,0
+M0226,3/8/2026,Colombo,Bangladesh,England,Group,10,3,58.96,91.68,2,3,0,0,Spin-Friendly,160,Team_B,Field,198.39,291.7,138,Team_A,2,4,2,1,2,1,1,0,1,1
+M0227,2/28/2026,Colombo,South Africa,Netherlands,Group,6,11,77.37,57.19,11,1,0,0,Spin-Friendly,160,Team_B,Field,251.35,178.69,162,Team_A,15,9,2,1,2,1,1,0,1,1
+M0228,3/3/2026,Kolkata,Pakistan,Nepal,Group,4,19,72.9,37.96,16,1,0,0,Spin-Friendly,165,Team_B,Bat,278.06,67.93,142,Team_A,13,8,5,1,2,1,0,0,0,1
+M0229,3/4/2026,Kolkata,Zimbabwe,Pakistan,Group,14,4,58.66,73.64,4,10,0,0,Spin-Friendly,165,Team_A,Field,141.8,269.92,142,Team_B,19,13,5,1,2,0,1,1,1,0
+M0230,2/19/2026,Kolkata,Nepal,Oman,Super8,19,16,50.33,45.5,3,4,0,0,Spin-Friendly,165,Team_B,Bat,82.2,114.0,180,Team_B,8,11,5,3,2,1,0,0,0,0
+M0231,2/18/2026,Kandy,PNG,Scotland,Group,20,13,43.76,52.33,1,1,0,0,Pace-Friendly,162,Team_A,Bat,73.9,150.9,151,Team_B,12,14,4,1,1,0,0,1,0,0
+M0232,3/6/2026,Ahmedabad,Nepal,Ireland,Group,19,12,39.52,78.1,0,2,0,0,Flat,180,Team_A,Field,84.47,210.16,167,Team_B,8,6,0,1,0,0,1,1,1,0
+M0233,2/22/2026,Kolkata,New Zealand,Pakistan,Group,5,4,70.17,87.75,1,5,0,0,Spin-Friendly,165,Team_B,Bat,248.34,291.37,145,Team_B,10,13,5,1,2,1,0,0,0,0
+M0234,3/2/2026,Kolkata,South Africa,Ireland,Group,6,12,81.62,50.32,2,1,0,0,Spin-Friendly,165,Team_B,Field,256.2,158.3,125,Team_A,15,6,5,1,2,1,1,0,1,1
+M0235,3/8/2026,Chennai,Nepal,Namibia,Group,19,15,52.83,51.22,3,4,0,0,Spin-Friendly,155,Team_B,Field,85.04,129.98,168,Team_B,8,7,1,1,2,1,1,0,1,0
+M0236,2/16/2026,Mumbai,Sri Lanka,England,Group,9,3,77.09,70.32,5,3,0,0,Flat,175,Team_B,Bat,222.0,271.61,180,Team_B,16,4,6,1,0,1,0,0,0,0
+M0237,2/22/2026,Colombo,West Indies,Ireland,Group,7,12,86.73,68.8,13,11,0,0,Spin-Friendly,160,Team_B,Field,257.66,177.27,139,Team_A,18,6,2,1,2,1,1,0,1,1
+M0238,3/6/2026,Delhi,Bangladesh,Zimbabwe,Group,10,14,71.83,60.56,5,2,0,0,Pace-Friendly,170,Team_A,Bat,203.95,151.33,172,Team_A,2,19,3,1,1,0,0,1,0,1
+M0239,2/20/2026,Colombo,New Zealand,Australia,Group,5,2,92.63,67.32,2,7,0,0,Spin-Friendly,160,Team_A,Bat,277.36,283.25,164,Team_A,10,1,2,1,2,0,0,1,0,1
+M0240,2/22/2026,Kolkata,Canada,Zimbabwe,Super8,18,14,48.65,53.55,8,9,0,0,Spin-Friendly,165,Team_B,Bat,86.55,146.58,178,Team_B,3,19,5,3,2,1,0,0,0,0
+M0241,3/2/2026,Colombo,Scotland,South Africa,Group,13,6,67.87,95.0,6,9,0,0,Spin-Friendly,160,Team_B,Bat,160.63,271.77,166,Team_B,14,15,2,1,2,1,0,0,0,0
+M0242,2/24/2026,Colombo,India,Zimbabwe,Group,1,14,95.0,57.51,13,2,0,0,Spin-Friendly,160,Team_A,Field,339.54,146.16,115,Team_A,5,19,2,1,2,0,1,1,1,1
+M0243,2/23/2026,Ahmedabad,USA,South Africa,Group,17,6,60.97,69.77,0,1,0,0,Flat,180,Team_A,Field,127.74,246.25,165,Team_B,17,15,0,1,0,0,1,1,1,0
+M0244,2/11/2026,Chennai,Ireland,Sri Lanka,SemiFinal,12,9,51.37,43.7,13,13,0,0,Spin-Friendly,155,Team_A,Bat,171.11,207.07,157,Team_A,6,16,1,2,2,0,0,1,0,1
+M0245,2/18/2026,Chennai,USA,PNG,Final,17,20,52.04,41.76,0,1,0,0,Spin-Friendly,155,Team_B,Field,111.82,61.44,141,Team_A,17,12,1,0,2,1,1,0,1,1
+M0246,2/7/2026,Chennai,PNG,Nepal,Super8,20,19,37.98,49.24,0,0,0,0,Spin-Friendly,155,Team_B,Field,70.95,78.47,183,Team_A,12,8,1,3,2,1,1,0,1,1
+M0247,2/28/2026,Colombo,Nepal,Sri Lanka,Group,19,9,34.0,57.22,1,12,0,1,Spin-Friendly,160,Team_A,Bat,82.23,197.89,178,Team_B,8,16,2,1,2,0,0,1,0,0
+M0248,2/26/2026,Kolkata,Pakistan,Afghanistan,Group,4,8,61.88,74.34,7,9,0,0,Spin-Friendly,165,Team_B,Field,266.06,251.54,137,Team_A,13,0,5,1,2,1,1,0,1,1
+M0249,2/19/2026,Mumbai,Bangladesh,Scotland,Group,10,13,73.07,54.8,8,6,0,0,Flat,175,Team_A,Field,209.89,159.49,155,Team_A,2,14,6,1,0,0,1,1,1,1
+M0250,2/9/2026,Kandy,Bangladesh,West Indies,Group,10,7,59.78,72.22,11,9,0,0,Pace-Friendly,162,Team_A,Bat,198.69,241.74,187,Team_B,2,18,4,1,1,0,0,1,0,0
+M0251,2/27/2026,Ahmedabad,Afghanistan,England,Group,8,3,56.65,86.86,0,0,0,0,Flat,180,Team_A,Bat,211.92,296.57,178,Team_B,0,4,0,1,0,0,0,1,0,0
+M0252,2/25/2026,Mumbai,Canada,West Indies,Group,18,7,36.89,68.92,5,22,0,0,Flat,175,Team_A,Field,88.34,238.09,155,Team_B,3,18,6,1,0,0,1,1,1,0
+M0253,3/1/2026,Kandy,Ireland,Oman,Group,12,16,47.46,39.32,15,13,0,0,Pace-Friendly,162,Team_B,Bat,166.49,118.52,182,Team_B,6,11,4,1,1,1,0,0,0,0
+M0254,3/7/2026,Mumbai,Ireland,Bangladesh,Group,12,10,65.34,55.51,4,13,0,0,Flat,175,Team_A,Bat,181.5,199.6,174,Team_B,6,2,6,1,0,0,0,1,0,0
+M0255,2/25/2026,Kolkata,Pakistan,Namibia,Super8,4,15,83.75,57.01,2,2,0,0,Spin-Friendly,165,Team_B,Field,287.78,157.31,122,Team_A,13,7,5,3,2,1,1,0,1,1
+M0256,3/5/2026,Delhi,PNG,Namibia,Group,20,15,56.74,48.48,11,16,0,0,Pace-Friendly,170,Team_B,Field,86.44,139.3,213,Team_B,12,7,3,1,1,1,1,0,1,0
+M0257,2/11/2026,Colombo,Netherlands,Scotland,Group,11,13,76.4,63.42,16,9,0,0,Spin-Friendly,160,Team_A,Field,189.48,162.86,105,Team_B,9,14,2,1,2,0,1,1,1,0
+M0258,2/14/2026,Chennai,Pakistan,Bangladesh,Group,4,10,78.24,63.43,16,10,0,0,Spin-Friendly,155,Team_A,Bat,277.39,216.59,149,Team_A,13,2,1,1,2,0,0,1,0,1
+M0259,3/3/2026,Chennai,Namibia,England,Group,15,3,44.58,62.8,2,8,0,0,Spin-Friendly,155,Team_A,Field,121.61,252.26,130,Team_B,7,4,1,1,2,0,1,1,1,0
+M0260,2/18/2026,Kolkata,India,West Indies,Super8,1,7,71.06,61.31,11,6,1,0,Spin-Friendly,165,Team_B,Field,302.58,220.09,184,Team_A,5,18,5,3,2,1,1,0,1,1
+M0261,3/3/2026,Ahmedabad,Namibia,Australia,Group,15,2,33.25,79.15,6,13,0,0,Flat,180,Team_B,Field,110.22,301.6,174,Team_B,7,1,0,1,0,1,1,0,1,0
+M0262,2/19/2026,Kolkata,England,Zimbabwe,Group,3,14,77.04,32.38,15,7,0,0,Spin-Friendly,165,Team_A,Field,298.24,121.49,121,Team_A,4,19,5,1,2,0,1,1,1,1
+M0263,2/16/2026,Ahmedabad,New Zealand,Oman,Group,5,16,53.97,34.16,9,5,0,0,Flat,180,Team_B,Field,252.14,118.41,181,Team_A,10,11,0,1,0,1,1,0,1,1
+M0264,2/21/2026,Chennai,South Africa,Oman,Group,6,16,71.45,43.85,12,5,0,0,Spin-Friendly,155,Team_B,Bat,241.3,104.72,114,Team_A,15,11,1,1,2,1,0,0,0,1
+M0265,2/26/2026,Delhi,Afghanistan,New Zealand,Group,8,5,63.89,62.13,12,13,0,0,Pace-Friendly,170,Team_B,Field,217.98,252.78,205,Team_A,0,10,3,1,1,1,1,0,1,1
+M0266,2/9/2026,Kandy,Scotland,Canada,Group,13,18,67.76,28.66,19,4,0,0,Pace-Friendly,162,Team_A,Field,178.63,82.13,178,Team_A,14,3,4,1,1,0,1,1,1,1
+M0267,2/15/2026,Kolkata,Bangladesh,PNG,Super8,10,20,55.88,45.62,5,4,0,0,Spin-Friendly,165,Team_B,Field,195.94,65.66,125,Team_A,2,12,5,3,2,1,1,0,1,1
+M0268,2/16/2026,Chennai,New Zealand,Zimbabwe,Group,5,14,95.0,49.14,14,1,0,0,Spin-Friendly,155,Team_A,Bat,279.48,130.52,152,Team_A,10,19,1,1,2,0,0,1,0,1
+M0269,2/26/2026,Chennai,Ireland,England,Group,12,3,67.69,80.27,6,13,0,0,Spin-Friendly,155,Team_A,Field,192.42,280.31,115,Team_B,6,4,1,1,2,0,1,1,1,0
+M0270,2/17/2026,Chennai,Oman,PNG,Group,16,20,47.34,56.33,14,12,0,0,Spin-Friendly,155,Team_B,Field,117.65,84.42,159,Team_A,11,12,1,1,2,1,1,0,1,1
+M0271,3/5/2026,Kandy,England,Canada,Super8,3,18,83.93,28.51,24,3,0,0,Pace-Friendly,162,Team_A,Bat,309.42,86.35,182,Team_A,4,3,4,3,1,0,0,1,0,1
+M0272,2/17/2026,Chennai,Canada,Oman,Group,18,16,43.47,37.86,1,4,0,0,Spin-Friendly,155,Team_B,Field,87.4,112.09,187,Team_A,3,11,1,1,2,1,1,0,1,1
+M0273,2/25/2026,Chennai,PNG,Australia,Group,20,2,36.38,75.91,1,24,0,0,Spin-Friendly,155,Team_A,Bat,71.26,280.44,156,Team_B,12,1,1,1,2,0,0,1,0,0
+M0274,2/10/2026,Mumbai,Oman,England,Group,16,3,68.91,71.38,3,26,0,0,Flat,175,Team_A,Bat,137.12,284.06,187,Team_B,11,4,6,1,0,0,0,1,0,0
+M0275,2/7/2026,Delhi,West Indies,South Africa,Group,7,6,63.64,68.9,9,21,0,0,Pace-Friendly,170,Team_B,Field,226.45,249.21,141,Team_A,18,15,3,1,1,1,1,0,1,1
+M0276,3/1/2026,Kandy,Nepal,Bangladesh,Group,19,10,43.07,64.29,1,1,0,0,Pace-Friendly,162,Team_B,Field,92.45,202.05,168,Team_B,8,2,4,1,1,1,1,0,1,0
+M0277,2/28/2026,Mumbai,New Zealand,PNG,Group,5,20,56.29,30.73,4,0,0,0,Flat,175,Team_B,Field,249.76,52.09,198,Team_A,10,12,6,1,0,1,1,0,1,1
+M0278,2/25/2026,Chennai,Namibia,South Africa,Group,15,6,49.81,82.28,2,10,0,0,Spin-Friendly,155,Team_B,Field,122.31,249.31,136,Team_B,7,15,1,1,2,1,1,0,1,0
+M0279,2/24/2026,Kandy,India,Australia,Group,1,2,60.21,85.48,10,9,0,0,Pace-Friendly,162,Team_A,Bat,290.03,300.61,207,Team_A,5,1,4,1,1,0,0,1,0,1
+M0280,2/27/2026,Kolkata,Zimbabwe,West Indies,SemiFinal,14,7,56.92,76.99,6,13,0,0,Spin-Friendly,165,Team_A,Field,136.68,245.77,149,Team_B,19,18,5,2,2,0,1,1,1,0
+M0281,2/17/2026,Kandy,USA,Zimbabwe,Group,17,14,74.44,38.97,11,19,0,0,Pace-Friendly,162,Team_B,Bat,138.97,147.12,168,Team_A,17,19,4,1,1,1,0,0,0,1
+M0282,2/23/2026,Colombo,Netherlands,Namibia,Group,11,15,53.35,60.73,8,9,0,0,Spin-Friendly,160,Team_A,Field,177.16,139.3,164,Team_A,9,7,2,1,2,0,1,1,1,1
+M0283,3/1/2026,Delhi,Namibia,Bangladesh,Group,15,10,34.27,74.62,5,11,0,0,Pace-Friendly,170,Team_A,Bat,122.59,203.62,135,Team_A,7,2,3,1,1,0,0,1,0,1
+M0284,3/8/2026,Chennai,India,Ireland,Group,1,12,95.0,55.3,21,9,1,0,Spin-Friendly,155,Team_A,Bat,328.56,167.59,170,Team_A,5,6,1,1,2,0,0,1,0,1
+M0285,2/17/2026,Mumbai,New Zealand,Namibia,SemiFinal,5,15,77.56,52.9,12,2,0,0,Flat,175,Team_A,Bat,278.88,134.46,197,Team_A,10,7,6,2,0,0,0,1,0,1
+M0286,3/1/2026,Colombo,Bangladesh,Oman,Group,10,16,85.33,51.92,6,8,0,0,Spin-Friendly,160,Team_B,Bat,224.78,116.81,188,Team_A,2,11,2,1,2,1,0,0,0,1
+M0287,3/6/2026,Ahmedabad,Oman,Sri Lanka,Group,16,9,42.27,68.07,2,8,0,0,Flat,180,Team_A,Field,123.43,207.82,156,Team_B,11,16,0,1,0,0,1,1,1,0
+M0288,2/23/2026,Kolkata,Bangladesh,New Zealand,Group,10,5,56.64,80.57,0,5,0,0,Spin-Friendly,165,Team_A,Bat,202.04,267.9,163,Team_B,2,10,5,1,2,0,0,1,0,0
+M0289,2/19/2026,Kandy,England,West Indies,Group,3,7,84.0,75.54,11,9,0,0,Pace-Friendly,162,Team_A,Bat,301.48,250.74,162,Team_A,4,18,4,1,1,0,0,1,0,1
+M0290,2/26/2026,Colombo,USA,Nepal,Group,17,19,39.8,43.76,16,12,0,0,Spin-Friendly,160,Team_A,Field,91.2,82.6,136,Team_A,17,8,2,1,2,0,1,1,1,1
+M0291,2/13/2026,Kolkata,Netherlands,USA,Group,11,17,41.06,50.13,7,1,0,0,Spin-Friendly,165,Team_A,Field,173.5,106.96,156,Team_A,9,17,5,1,2,0,1,1,1,1
+M0292,2/17/2026,Mumbai,Namibia,India,Group,15,1,50.39,72.9,0,6,0,1,Flat,175,Team_B,Bat,127.43,296.59,187,Team_B,7,5,6,1,0,1,0,0,0,0
+M0293,2/17/2026,Colombo,Zimbabwe,Oman,Group,14,16,51.35,29.96,12,7,0,0,Spin-Friendly,160,Team_B,Field,141.59,98.15,153,Team_A,19,11,2,1,2,1,1,0,1,1
+M0294,2/21/2026,Kandy,South Africa,Zimbabwe,Group,6,14,61.45,57.35,11,8,0,0,Pace-Friendly,162,Team_A,Field,220.5,152.82,205,Team_A,15,19,4,1,1,0,1,1,1,1
+M0295,2/25/2026,Delhi,India,Afghanistan,Group,1,8,82.1,61.08,2,0,1,0,Pace-Friendly,170,Team_A,Bat,320.04,215.56,203,Team_A,5,0,3,1,1,0,0,1,0,1
+M0296,3/1/2026,Mumbai,India,England,Group,1,3,68.44,76.65,1,3,1,0,Flat,175,Team_B,Bat,299.44,275.3,165,Team_A,5,4,6,1,0,1,0,0,0,1
+M0297,2/22/2026,Kolkata,New Zealand,Ireland,Group,5,12,66.76,59.52,12,8,0,0,Spin-Friendly,165,Team_A,Field,244.95,169.65,149,Team_A,10,6,5,1,2,0,1,1,1,1
+M0298,3/5/2026,Mumbai,Pakistan,Canada,Group,4,18,65.42,57.26,14,0,0,0,Flat,175,Team_A,Field,256.65,102.3,185,Team_A,13,3,6,1,0,0,1,1,1,1
+M0299,3/5/2026,Kolkata,Pakistan,Scotland,Super8,4,13,76.63,57.94,9,3,0,0,Spin-Friendly,165,Team_B,Field,273.62,163.18,191,Team_A,13,14,5,3,2,1,1,0,1,1
+M0300,2/22/2026,Chennai,PNG,West Indies,Group,20,7,57.69,54.72,1,4,0,0,Spin-Friendly,155,Team_A,Field,91.41,229.41,151,Team_B,12,18,1,1,2,0,1,1,1,0
+M0301,2/15/2026,Ahmedabad,Netherlands,Ireland,Super8,11,12,53.82,54.84,3,4,0,0,Flat,180,Team_B,Bat,176.32,171.56,188,Team_A,9,6,0,3,0,1,0,0,0,1
+M0302,2/22/2026,Kandy,Bangladesh,India,Group,10,1,33.67,80.17,4,13,0,0,Pace-Friendly,162,Team_A,Field,164.07,301.6,153,Team_B,2,5,4,1,1,0,1,1,1,0
+M0303,2/24/2026,Mumbai,Oman,Australia,Group,16,2,45.47,92.52,6,20,0,0,Flat,175,Team_A,Field,114.29,320.38,208,Team_B,11,1,6,1,0,0,1,1,1,0
+M0304,2/10/2026,Chennai,Sri Lanka,Netherlands,Group,9,11,61.27,63.65,12,11,0,0,Spin-Friendly,155,Team_A,Bat,200.04,190.99,141,Team_B,16,9,1,1,2,0,0,1,0,0
+M0305,3/6/2026,Mumbai,Sri Lanka,Bangladesh,Group,9,10,55.3,73.25,13,13,0,0,Flat,175,Team_A,Bat,211.69,201.96,180,Team_B,16,2,6,1,0,0,0,1,0,0
+M0306,2/13/2026,Kolkata,Sri Lanka,New Zealand,Group,9,5,55.22,57.87,6,19,0,0,Spin-Friendly,165,Team_B,Field,206.74,233.06,156,Team_B,16,10,5,1,2,1,1,0,1,0
+M0307,2/11/2026,Delhi,Namibia,Oman,Group,15,16,49.71,40.06,13,12,0,0,Pace-Friendly,170,Team_A,Field,139.15,92.78,169,Team_B,7,11,3,1,1,0,1,1,1,0
+M0308,2/15/2026,Delhi,USA,Oman,Super8,17,16,53.38,49.58,9,10,0,0,Pace-Friendly,170,Team_A,Bat,106.33,130.5,197,Team_B,17,11,3,3,1,0,0,1,0,0
+M0309,3/6/2026,Mumbai,Scotland,Oman,Group,13,16,60.38,50.2,11,5,0,0,Flat,175,Team_A,Bat,163.68,123.73,179,Team_B,14,11,6,1,0,0,0,1,0,0
+M0310,2/15/2026,Ahmedabad,Sri Lanka,PNG,Group,9,20,42.38,44.56,22,5,0,0,Flat,180,Team_A,Field,187.7,75.76,186,Team_A,16,12,0,1,0,0,1,1,1,1
+M0311,3/5/2026,Mumbai,Bangladesh,Canada,Group,10,18,59.77,60.9,5,2,0,0,Flat,175,Team_B,Bat,191.4,111.06,157,Team_A,2,3,6,1,0,1,0,0,0,1
+M0312,2/19/2026,Chennai,Australia,England,Group,2,3,94.71,74.92,7,7,0,0,Spin-Friendly,155,Team_A,Field,308.88,282.77,120,Team_B,1,4,1,1,2,0,1,1,1,0
+M0313,3/2/2026,Delhi,Ireland,Zimbabwe,Group,12,14,54.25,50.82,4,4,0,0,Pace-Friendly,170,Team_B,Field,172.99,156.13,167,Team_A,6,19,3,1,1,1,1,0,1,1
+M0314,3/3/2026,Kandy,Canada,Namibia,Group,18,15,33.02,67.78,13,14,0,0,Pace-Friendly,162,Team_A,Field,78.13,140.92,167,Team_B,3,7,4,1,1,0,1,1,1,0
+M0315,3/6/2026,Mumbai,Bangladesh,Afghanistan,Super8,10,8,71.87,65.24,1,1,0,0,Flat,175,Team_B,Bat,197.96,213.99,191,Team_B,2,0,6,3,0,1,0,0,0,0
+M0316,2/17/2026,Mumbai,New Zealand,Canada,Group,5,18,72.04,29.74,21,5,0,0,Flat,175,Team_B,Bat,262.52,78.48,203,Team_A,10,3,6,1,0,1,0,0,0,1
+M0317,3/4/2026,Chennai,Nepal,New Zealand,Group,19,5,21.88,87.33,0,10,0,0,Spin-Friendly,155,Team_A,Bat,60.28,260.68,165,Team_B,8,10,1,1,2,0,0,1,0,0
+M0318,2/10/2026,Ahmedabad,Scotland,West Indies,Group,13,7,56.48,71.32,8,21,0,0,Flat,180,Team_A,Bat,177.87,232.01,176,Team_A,14,18,0,1,0,0,0,1,0,1
+M0319,3/1/2026,Kolkata,New Zealand,India,Final,5,1,76.26,80.19,13,16,0,1,Spin-Friendly,165,Team_A,Field,258.78,304.24,160,Team_B,10,5,5,0,2,0,1,1,1,0
+M0320,2/9/2026,Mumbai,PNG,South Africa,Group,20,6,55.92,81.75,1,19,0,0,Flat,175,Team_B,Bat,98.6,267.8,177,Team_B,12,15,6,1,0,1,0,0,0,0
+M0321,2/8/2026,Kolkata,Sri Lanka,Australia,Group,9,2,51.5,84.05,3,9,0,0,Spin-Friendly,165,Team_B,Field,206.45,303.76,139,Team_B,16,1,5,1,2,1,1,0,1,0
+M0322,3/1/2026,Ahmedabad,England,New Zealand,Group,3,5,75.8,67.13,1,2,0,0,Flat,180,Team_A,Bat,285.74,253.95,191,Team_A,4,10,0,1,0,0,0,1,0,1
+M0323,2/28/2026,Delhi,Sri Lanka,India,Group,9,1,57.51,93.21,4,10,0,1,Pace-Friendly,170,Team_A,Bat,203.49,325.62,187,Team_B,16,5,3,1,1,0,0,1,0,0
+M0324,2/20/2026,Kandy,Australia,Ireland,Group,2,12,89.92,52.08,18,4,0,0,Pace-Friendly,162,Team_A,Field,298.16,174.82,160,Team_A,1,6,4,1,1,0,1,1,1,1
+M0325,2/10/2026,Kandy,Canada,PNG,Group,18,20,46.14,32.46,2,1,0,0,Pace-Friendly,162,Team_B,Bat,99.45,61.75,185,Team_A,3,12,4,1,1,1,0,0,0,1
+M0326,3/3/2026,Kandy,Afghanistan,Namibia,Group,8,15,71.49,78.34,17,10,0,0,Pace-Friendly,162,Team_A,Field,214.3,150.9,176,Team_A,0,7,4,1,1,0,1,1,1,1
+M0327,2/7/2026,Delhi,Pakistan,West Indies,Group,4,7,72.72,83.11,11,8,0,0,Pace-Friendly,170,Team_A,Bat,278.0,244.11,150,Team_B,13,18,3,1,1,0,0,1,0,0
+M0328,3/8/2026,Kolkata,South Africa,Australia,Super8,6,2,66.34,82.44,3,10,0,0,Spin-Friendly,165,Team_B,Field,217.5,298.03,169,Team_A,15,1,5,3,2,1,1,0,1,1
+M0329,2/10/2026,Kandy,Sri Lanka,Canada,Super8,9,18,76.36,35.29,12,6,1,0,Pace-Friendly,162,Team_B,Bat,212.74,90.27,188,Team_A,16,3,4,3,1,1,0,0,0,1
+M0330,2/15/2026,Kolkata,USA,Bangladesh,Group,17,10,42.27,45.33,3,17,0,0,Spin-Friendly,165,Team_A,Bat,101.85,181.04,155,Team_B,17,2,5,1,2,0,0,1,0,0
+M0331,3/3/2026,Mumbai,Afghanistan,South Africa,Group,8,6,55.13,59.14,11,19,0,0,Flat,175,Team_A,Field,214.87,248.91,192,Team_B,0,15,6,1,0,0,1,1,1,0
+M0332,2/26/2026,Delhi,India,Pakistan,Group,1,4,69.38,62.02,8,8,1,0,Pace-Friendly,170,Team_A,Field,296.86,267.71,174,Team_A,5,13,3,1,1,0,1,1,1,1
+M0333,2/14/2026,Kandy,West Indies,Sri Lanka,Group,7,9,62.02,78.22,8,7,0,1,Pace-Friendly,162,Team_B,Bat,228.84,224.05,196,Team_A,18,16,4,1,1,1,0,0,0,1
+M0334,3/7/2026,Delhi,South Africa,Pakistan,Super8,6,4,74.8,68.31,0,0,0,0,Pace-Friendly,170,Team_B,Field,263.21,258.28,164,Team_A,15,13,3,3,1,1,1,0,1,1
+M0335,2/20/2026,Delhi,Ireland,Afghanistan,Group,12,8,54.16,68.5,4,7,0,0,Pace-Friendly,170,Team_A,Field,151.29,219.76,200,Team_B,6,0,3,1,1,0,1,1,1,0
+M0336,2/25/2026,Ahmedabad,PNG,Netherlands,Group,20,11,50.16,59.26,1,1,0,0,Flat,180,Team_A,Bat,86.29,188.63,184,Team_A,12,9,0,1,0,0,0,1,0,1
+M0337,2/19/2026,Kandy,Ireland,PNG,Group,12,20,52.42,31.0,12,4,0,0,Pace-Friendly,162,Team_B,Field,176.48,69.3,171,Team_A,6,12,4,1,1,1,1,0,1,1
+M0338,2/19/2026,Colombo,Pakistan,USA,Group,4,17,50.09,47.25,2,0,0,0,Spin-Friendly,160,Team_A,Bat,254.45,110.84,153,Team_A,13,17,2,1,2,0,0,1,0,1
+M0339,3/4/2026,Kolkata,Namibia,Zimbabwe,Group,15,14,36.82,50.43,2,2,0,0,Spin-Friendly,165,Team_B,Bat,117.17,150.59,185,Team_B,7,19,5,1,2,1,0,0,0,0
+M0340,2/27/2026,Colombo,South Africa,India,Group,6,1,67.62,82.69,1,1,0,0,Spin-Friendly,160,Team_B,Field,222.39,325.47,130,Team_B,15,5,2,1,2,1,1,0,1,0
+M0341,2/14/2026,Ahmedabad,Scotland,Afghanistan,Group,13,8,62.93,62.08,1,1,0,0,Flat,180,Team_B,Bat,162.94,218.26,234,Team_B,14,0,0,1,0,1,0,0,0,0
+M0342,3/2/2026,Colombo,Afghanistan,Canada,SemiFinal,8,18,66.7,39.6,17,4,0,0,Spin-Friendly,160,Team_A,Bat,220.46,75.18,159,Team_A,0,3,2,2,2,0,0,1,0,1
+M0343,2/22/2026,Kolkata,Nepal,England,Group,19,3,37.71,91.34,1,29,0,0,Spin-Friendly,165,Team_B,Field,72.08,304.79,166,Team_B,8,4,5,1,2,1,1,0,1,0
+M0344,2/18/2026,Kolkata,Zimbabwe,Scotland,Group,14,13,49.68,54.37,2,2,0,0,Spin-Friendly,165,Team_B,Field,140.56,157.58,196,Team_A,19,14,5,1,2,1,1,0,1,1
+M0345,3/4/2026,Mumbai,Netherlands,Australia,Group,11,2,56.4,64.74,5,8,0,0,Flat,175,Team_B,Bat,180.05,284.52,144,Team_B,9,1,6,1,0,1,0,0,0,0
+M0346,2/9/2026,Colombo,West Indies,Australia,Group,7,2,54.72,78.77,9,6,0,0,Spin-Friendly,160,Team_B,Field,217.67,285.38,181,Team_A,18,1,2,1,2,1,1,0,1,1
+M0347,2/18/2026,Kolkata,Scotland,India,Super8,13,1,37.54,70.7,1,4,0,1,Spin-Friendly,165,Team_B,Field,130.11,299.4,133,Team_B,14,5,5,3,2,1,1,0,1,0
+M0348,2/14/2026,Ahmedabad,Oman,Pakistan,Group,16,4,59.48,61.14,8,15,0,0,Flat,180,Team_A,Bat,125.71,264.56,174,Team_B,11,13,0,1,0,0,0,1,0,0
+M0349,2/18/2026,Chennai,Zimbabwe,PNG,Group,14,20,70.73,55.4,7,5,0,0,Spin-Friendly,155,Team_A,Bat,169.85,89.51,150,Team_B,19,12,1,1,2,0,0,1,0,0
+M0350,3/8/2026,Kandy,Australia,Nepal,Group,2,19,84.56,28.63,19,3,0,0,Pace-Friendly,162,Team_B,Bat,312.97,71.36,148,Team_A,1,8,4,1,1,1,0,0,0,1
+M0351,2/15/2026,Mumbai,Canada,USA,Group,18,17,56.47,59.7,12,14,0,0,Flat,175,Team_A,Bat,108.42,120.05,147,Team_A,3,17,6,1,0,0,0,1,0,1
+M0352,2/12/2026,Ahmedabad,USA,Namibia,Group,17,15,46.9,56.97,4,3,0,0,Flat,180,Team_A,Field,113.82,132.02,176,Team_A,17,7,0,1,0,0,1,1,1,1
+M0353,3/3/2026,Mumbai,West Indies,Afghanistan,Group,7,8,70.25,62.3,11,16,0,0,Flat,175,Team_B,Bat,229.01,208.79,192,Team_A,18,0,6,1,0,1,0,0,0,1
+M0354,2/16/2026,Kolkata,Ireland,Scotland,Group,12,13,58.16,55.13,9,9,0,0,Spin-Friendly,165,Team_B,Field,157.82,159.85,155,Team_A,6,14,5,1,2,1,1,0,1,1
+M0355,3/3/2026,Chennai,Sri Lanka,USA,Group,9,17,66.94,45.66,15,9,0,0,Spin-Friendly,155,Team_A,Field,212.55,95.49,162,Team_A,16,17,1,1,2,0,1,1,1,1
+M0356,2/7/2026,Kolkata,USA,Australia,Group,17,2,64.15,87.97,1,28,0,0,Spin-Friendly,165,Team_B,Bat,124.95,305.75,177,Team_B,17,1,5,1,2,1,0,0,0,0
+M0357,3/7/2026,Colombo,USA,West Indies,Group,17,7,52.82,55.62,0,0,0,0,Spin-Friendly,160,Team_B,Bat,110.86,234.12,144,Team_B,17,18,2,1,2,1,0,0,0,0
+M0358,2/16/2026,Colombo,Nepal,Netherlands,Super8,19,11,45.54,67.66,1,2,0,0,Spin-Friendly,160,Team_A,Field,79.25,177.42,168,Team_B,8,9,2,3,2,0,1,1,1,0
+M0359,2/11/2026,Ahmedabad,West Indies,Oman,Group,7,16,65.69,64.53,15,7,0,0,Flat,180,Team_B,Bat,243.94,128.39,129,Team_A,18,11,0,1,0,1,0,0,0,1
+M0360,2/20/2026,Delhi,PNG,Afghanistan,Group,20,8,47.38,67.84,2,20,0,0,Pace-Friendly,170,Team_B,Field,73.79,224.72,164,Team_B,12,0,3,1,1,1,1,0,1,0
+M0361,2/11/2026,Delhi,USA,Scotland,Group,17,13,48.25,36.8,5,15,0,0,Pace-Friendly,170,Team_B,Bat,117.0,141.87,172,Team_B,17,14,3,1,1,1,0,0,0,0
+M0362,2/14/2026,Kolkata,India,USA,Group,1,17,95.0,37.82,9,0,1,0,Spin-Friendly,165,Team_B,Field,326.77,92.38,172,Team_A,5,17,5,1,2,1,1,0,1,1
+M0363,3/2/2026,Kandy,Afghanistan,Oman,Super8,8,16,71.71,59.68,9,1,0,0,Pace-Friendly,162,Team_B,Field,213.64,122.75,133,Team_A,0,11,4,3,1,1,1,0,1,1
+M0364,3/3/2026,Kolkata,Nepal,Canada,Group,19,18,22.55,51.33,10,14,0,0,Spin-Friendly,165,Team_A,Bat,66.41,102.11,164,Team_A,8,3,5,1,2,0,0,1,0,1
+M0365,2/10/2026,Chennai,India,Nepal,Group,1,19,78.75,47.28,17,0,1,0,Spin-Friendly,155,Team_B,Field,318.41,87.35,121,Team_A,5,8,1,1,2,1,1,0,1,1
+M0366,3/6/2026,Mumbai,India,Netherlands,Group,1,11,65.99,60.14,1,2,1,0,Flat,175,Team_A,Bat,304.57,190.0,196,Team_A,5,9,6,1,0,0,0,1,0,1
+M0367,2/26/2026,Colombo,Netherlands,Afghanistan,Group,11,8,80.57,54.69,0,1,0,0,Spin-Friendly,160,Team_A,Field,193.46,220.97,152,Team_A,9,0,2,1,2,0,1,1,1,1
+M0368,2/18/2026,Kolkata,Netherlands,Canada,Group,11,18,61.12,63.45,10,2,0,0,Spin-Friendly,165,Team_A,Field,176.24,99.78,148,Team_A,9,3,5,1,2,0,1,1,1,1
+M0369,2/19/2026,Ahmedabad,Canada,South Africa,Group,18,6,70.27,74.33,4,23,0,0,Flat,180,Team_B,Bat,120.7,252.79,164,Team_B,3,15,0,1,0,1,0,0,0,0
+M0370,3/4/2026,Ahmedabad,South Africa,Bangladesh,Group,6,10,71.13,66.45,15,10,0,0,Flat,180,Team_A,Bat,241.64,186.21,215,Team_A,15,2,0,1,0,0,0,1,0,1
+M0371,2/11/2026,Kolkata,Nepal,West Indies,Final,19,7,35.32,73.35,1,5,0,0,Spin-Friendly,165,Team_B,Bat,83.44,236.22,209,Team_B,8,18,5,0,2,1,0,0,0,0
+M0372,2/25/2026,Delhi,USA,England,Super8,17,3,50.52,66.83,0,8,0,0,Pace-Friendly,170,Team_A,Bat,105.76,276.37,175,Team_B,17,4,3,3,1,0,0,1,0,0
+M0373,3/4/2026,Chennai,Scotland,England,Group,13,3,64.58,73.65,0,4,0,0,Spin-Friendly,155,Team_A,Field,142.31,281.73,132,Team_B,14,4,1,1,2,0,1,1,1,0
+M0374,2/21/2026,Ahmedabad,India,PNG,Group,1,20,95.0,51.58,1,0,1,0,Flat,180,Team_A,Field,328.45,96.45,191,Team_A,5,12,0,1,0,0,1,1,1,1
+M0375,2/7/2026,Chennai,Nepal,Afghanistan,Group,19,8,43.47,78.24,2,10,0,0,Spin-Friendly,155,Team_B,Bat,81.56,251.68,151,Team_B,8,0,1,1,2,1,0,0,0,0
+M0376,2/21/2026,Mumbai,Australia,Zimbabwe,Group,2,14,77.1,64.23,25,3,0,0,Flat,175,Team_A,Bat,311.0,154.58,181,Team_A,1,19,6,1,0,0,0,1,0,1
+M0377,2/22/2026,Mumbai,West Indies,Netherlands,Super8,7,11,76.48,37.53,4,9,0,0,Flat,175,Team_B,Bat,249.62,159.05,166,Team_A,18,9,6,3,0,1,0,0,0,1
+M0378,2/27/2026,Kolkata,Scotland,Namibia,Group,13,15,53.05,65.46,8,20,0,0,Spin-Friendly,165,Team_A,Field,137.24,149.22,127,Team_B,14,7,5,1,2,0,1,1,1,0
+M0379,3/4/2026,Chennai,Ireland,Pakistan,Group,12,4,51.76,72.15,6,16,0,0,Spin-Friendly,155,Team_B,Field,175.85,268.69,179,Team_B,6,13,1,1,2,1,1,0,1,0
+M0380,2/23/2026,Delhi,England,South Africa,Group,3,6,73.91,91.1,9,1,0,0,Pace-Friendly,170,Team_B,Bat,291.5,279.65,168,Team_A,4,15,3,1,1,1,0,0,0,1
+M0381,2/8/2026,Ahmedabad,India,West Indies,Group,1,7,84.57,82.56,7,5,1,0,Flat,180,Team_B,Bat,321.78,259.15,173,Team_A,5,18,0,1,0,1,0,0,0,1
+M0382,3/5/2026,Mumbai,Sri Lanka,Scotland,Group,9,13,74.74,71.26,11,10,0,0,Flat,175,Team_B,Bat,215.2,172.63,192,Team_A,16,14,6,1,0,1,0,0,0,1
+M0383,2/9/2026,Mumbai,Scotland,Zimbabwe,Group,13,14,57.97,57.11,7,8,0,0,Flat,175,Team_A,Bat,169.45,153.6,223,Team_A,14,19,6,1,0,0,0,1,0,1
+M0384,2/15/2026,Colombo,South Africa,Canada,Group,6,18,69.08,33.83,1,1,0,0,Spin-Friendly,160,Team_B,Bat,234.29,75.01,130,Team_A,15,3,2,1,2,1,0,0,0,1
+M0385,2/8/2026,Chennai,India,England,Super8,1,3,76.29,61.94,3,5,1,0,Spin-Friendly,155,Team_B,Field,299.32,268.19,141,Team_A,5,4,1,3,2,1,1,0,1,1
+M0386,2/11/2026,Ahmedabad,Bangladesh,Oman,Group,10,16,73.56,45.79,15,9,0,0,Flat,180,Team_A,Bat,203.1,124.63,188,Team_A,2,11,0,1,0,0,0,1,0,1
+M0387,2/25/2026,Kandy,Canada,USA,Group,18,17,47.72,53.53,3,4,0,0,Pace-Friendly,162,Team_A,Field,92.78,111.06,162,Team_B,3,17,4,1,1,0,1,1,1,0
+M0388,2/28/2026,Delhi,Afghanistan,Zimbabwe,Group,8,14,50.74,60.18,17,10,0,0,Pace-Friendly,170,Team_B,Field,205.16,159.18,172,Team_A,0,19,3,1,1,1,1,0,1,1
+M0389,3/7/2026,Chennai,Afghanistan,Sri Lanka,Super8,8,9,68.6,58.61,15,12,0,0,Spin-Friendly,155,Team_A,Field,226.92,209.28,151,Team_B,0,16,1,3,2,0,1,1,1,0
+M0390,2/26/2026,Colombo,Ireland,Netherlands,Group,12,11,52.62,60.67,2,2,0,0,Spin-Friendly,160,Team_A,Field,168.05,179.05,161,Team_B,6,9,2,1,2,0,1,1,1,0
+M0391,2/13/2026,Kolkata,PNG,Namibia,Super8,20,15,45.35,55.16,8,17,0,0,Spin-Friendly,165,Team_A,Bat,65.69,134.96,162,Team_B,12,7,5,3,2,0,0,1,0,0
+M0392,2/13/2026,Chennai,Namibia,Australia,Group,15,2,55.69,81.16,11,15,0,0,Spin-Friendly,155,Team_A,Field,126.35,293.2,144,Team_B,7,1,1,1,2,0,1,1,1,0
+M0393,2/9/2026,Kandy,PNG,Pakistan,Group,20,4,45.34,88.31,0,2,0,0,Pace-Friendly,162,Team_B,Field,66.53,295.85,189,Team_B,12,13,4,1,1,1,1,0,1,0
+M0394,2/21/2026,Delhi,Nepal,India,SemiFinal,19,1,54.71,95.0,2,27,0,1,Pace-Friendly,170,Team_A,Field,96.71,334.56,172,Team_B,8,5,3,2,1,0,1,1,1,0
+M0395,2/10/2026,Chennai,Afghanistan,New Zealand,Group,8,5,62.49,87.63,6,7,0,0,Spin-Friendly,155,Team_A,Bat,213.65,266.41,164,Team_B,0,10,1,1,2,0,0,1,0,0
+M0396,3/8/2026,Ahmedabad,PNG,Sri Lanka,Group,20,9,39.94,69.6,1,2,0,0,Flat,180,Team_A,Field,75.74,220.69,175,Team_B,12,16,0,1,0,0,1,1,1,0
+M0397,2/15/2026,Chennai,Bangladesh,India,Group,10,1,81.54,74.94,4,8,0,1,Spin-Friendly,155,Team_B,Field,225.61,307.66,124,Team_B,2,5,1,1,2,1,1,0,1,0
+M0398,2/11/2026,Chennai,Sri Lanka,Netherlands,Super8,9,11,75.13,70.78,10,9,0,0,Spin-Friendly,155,Team_B,Bat,220.39,187.69,198,Team_B,16,9,1,3,2,1,0,0,0,0
+M0399,2/8/2026,Kolkata,Australia,Ireland,Group,2,12,83.63,49.2,18,5,0,0,Spin-Friendly,165,Team_B,Field,305.25,162.99,187,Team_A,1,6,5,1,2,1,1,0,1,1
+M0400,3/4/2026,Kandy,Australia,Afghanistan,Group,2,8,86.47,71.0,5,4,0,0,Pace-Friendly,162,Team_B,Bat,310.81,225.46,132,Team_A,1,0,4,1,1,1,0,0,0,1
+M0401,3/6/2026,Ahmedabad,Oman,Australia,Group,16,2,52.41,66.49,0,7,0,0,Flat,180,Team_A,Bat,125.62,296.61,185,Team_B,11,1,0,1,0,0,0,1,0,0
+M0402,2/15/2026,Mumbai,Oman,Namibia,Group,16,15,41.93,50.51,12,11,0,0,Flat,175,Team_B,Bat,104.88,138.69,174,Team_A,11,7,6,1,0,1,0,0,0,1
+M0403,2/20/2026,Kandy,Bangladesh,Namibia,Group,10,15,70.95,45.68,8,15,0,0,Pace-Friendly,162,Team_B,Field,208.06,129.48,174,Team_A,2,7,4,1,1,1,1,0,1,1
+M0404,3/4/2026,Delhi,Canada,Namibia,Group,18,15,44.18,47.15,1,4,0,0,Pace-Friendly,170,Team_A,Bat,94.13,124.38,146,Team_B,3,7,3,1,1,0,0,1,0,0
+M0405,2/23/2026,Kandy,Sri Lanka,Oman,Group,9,16,59.09,47.15,21,7,1,0,Pace-Friendly,162,Team_A,Bat,189.47,115.45,179,Team_A,16,11,4,1,1,0,0,1,0,1
+M0406,2/14/2026,Ahmedabad,Afghanistan,Bangladesh,Group,8,10,55.85,54.39,1,0,0,0,Flat,180,Team_B,Bat,199.69,178.82,183,Team_A,0,2,0,1,0,1,0,0,0,1
+M0407,3/5/2026,Mumbai,India,Sri Lanka,Final,1,9,85.95,58.43,12,2,1,0,Flat,175,Team_B,Bat,324.2,199.38,155,Team_A,5,16,6,0,0,1,0,0,0,1
+M0408,2/22/2026,Mumbai,Scotland,Oman,Group,13,16,69.52,52.82,13,6,0,0,Flat,175,Team_B,Bat,176.19,146.37,167,Team_B,14,11,6,1,0,1,0,0,0,0
+M0409,2/18/2026,Mumbai,Bangladesh,England,Group,10,3,61.05,58.24,0,5,0,0,Flat,175,Team_B,Field,180.76,267.89,118,Team_B,2,4,6,1,0,1,1,0,1,0
+M0410,2/8/2026,Chennai,USA,PNG,Group,17,20,53.42,58.41,2,3,0,0,Spin-Friendly,155,Team_A,Field,114.07,87.36,117,Team_A,17,12,1,1,2,0,1,1,1,1
+M0411,2/27/2026,Mumbai,USA,Oman,Group,17,16,45.21,58.45,5,8,0,0,Flat,175,Team_A,Field,121.23,129.85,108,Team_B,17,11,6,1,0,0,1,1,1,0
+M0412,3/8/2026,Chennai,PNG,Zimbabwe,Group,20,14,37.76,64.36,2,2,0,0,Spin-Friendly,155,Team_A,Field,50.12,146.56,160,Team_A,12,19,1,1,2,0,1,1,1,1
+M0413,2/16/2026,Kandy,New Zealand,Sri Lanka,Group,5,9,69.57,61.0,9,13,0,1,Pace-Friendly,162,Team_B,Bat,263.66,194.96,212,Team_A,10,16,4,1,1,1,0,0,0,1
+M0414,2/13/2026,Mumbai,Netherlands,Scotland,Super8,11,13,47.67,62.61,7,7,0,0,Flat,175,Team_B,Field,185.48,158.46,157,Team_B,9,14,6,3,0,1,1,0,1,0
+M0415,2/7/2026,Ahmedabad,Bangladesh,PNG,Group,10,20,56.11,33.63,13,3,0,0,Flat,180,Team_B,Bat,194.45,60.98,187,Team_A,2,12,0,1,0,1,0,0,0,1
+M0416,2/10/2026,Colombo,New Zealand,Scotland,Group,5,13,72.67,60.45,12,3,0,0,Spin-Friendly,160,Team_A,Bat,265.62,155.55,145,Team_A,10,14,2,1,2,0,0,1,0,1
+M0417,2/15/2026,Mumbai,India,Netherlands,Group,1,11,91.8,61.94,13,7,1,0,Flat,175,Team_B,Bat,327.16,180.12,160,Team_A,5,9,6,1,0,1,0,0,0,1
+M0418,3/4/2026,Ahmedabad,South Africa,USA,Group,6,17,66.39,53.39,22,5,0,0,Flat,180,Team_B,Field,253.87,125.62,180,Team_A,15,17,0,1,0,1,1,0,1,1
+M0419,2/22/2026,Colombo,Canada,Zimbabwe,Group,18,14,25.13,48.15,2,7,0,0,Spin-Friendly,160,Team_B,Field,78.16,137.54,130,Team_B,3,19,2,1,2,1,1,0,1,0
+M0420,3/1/2026,Delhi,PNG,Ireland,Group,20,12,41.3,66.9,5,13,0,0,Pace-Friendly,170,Team_A,Bat,67.25,186.16,134,Team_B,12,6,3,1,1,0,0,1,0,0
+M0421,3/4/2026,Colombo,Sri Lanka,Australia,Group,9,2,58.74,91.88,7,8,1,0,Spin-Friendly,160,Team_B,Field,205.14,297.0,184,Team_B,16,1,2,1,2,1,1,0,1,0
+M0422,2/12/2026,Delhi,Namibia,New Zealand,Group,15,5,52.21,80.87,2,7,0,0,Pace-Friendly,170,Team_A,Field,118.74,286.66,171,Team_B,7,10,3,1,1,0,1,1,1,0
+M0423,3/3/2026,Delhi,Bangladesh,Pakistan,Group,10,4,61.54,69.76,8,21,0,0,Pace-Friendly,170,Team_A,Field,198.34,264.61,150,Team_B,2,13,3,1,1,0,1,1,1,0
+M0424,2/18/2026,Kolkata,South Africa,England,Group,6,3,82.21,71.13,3,4,0,0,Spin-Friendly,165,Team_B,Field,249.93,280.0,161,Team_B,15,4,5,1,2,1,1,0,1,0
+M0425,2/16/2026,Delhi,Scotland,Nepal,Group,13,19,62.86,62.49,6,8,0,0,Pace-Friendly,170,Team_A,Field,162.94,101.16,190,Team_B,14,8,3,1,1,0,1,1,1,0
+M0426,2/9/2026,Delhi,USA,Australia,Group,17,2,40.97,65.95,0,15,0,0,Pace-Friendly,170,Team_A,Field,104.11,291.97,172,Team_B,17,1,3,1,1,0,1,1,1,0
+M0427,2/20/2026,Mumbai,Sri Lanka,Ireland,Group,9,12,79.78,67.85,1,0,0,0,Flat,175,Team_A,Bat,226.43,187.72,151,Team_A,16,6,6,1,0,0,0,1,0,1
+M0428,3/7/2026,Delhi,West Indies,PNG,Group,7,20,77.91,52.38,23,6,0,0,Pace-Friendly,170,Team_B,Bat,244.68,81.35,149,Team_A,18,12,3,1,1,1,0,0,0,1
+M0429,2/22/2026,Ahmedabad,Bangladesh,Scotland,Super8,10,13,71.97,51.34,3,7,0,0,Flat,180,Team_A,Bat,203.02,147.3,178,Team_A,2,14,0,3,0,0,0,1,0,1
+M0430,3/3/2026,Kolkata,India,Oman,Group,1,16,79.45,54.85,21,3,1,0,Spin-Friendly,165,Team_A,Field,311.95,109.81,185,Team_A,5,11,5,1,2,0,1,1,1,1
+M0431,2/9/2026,Kandy,Namibia,Pakistan,Group,15,4,56.67,89.21,2,2,0,0,Pace-Friendly,162,Team_B,Field,144.4,296.8,149,Team_B,7,13,4,1,1,1,1,0,1,0
+M0432,2/7/2026,Chennai,West Indies,Australia,Group,7,2,50.93,62.46,1,0,0,0,Spin-Friendly,155,Team_A,Field,224.81,267.61,126,Team_B,18,1,1,1,2,0,1,1,1,0
+M0433,3/5/2026,Kandy,Canada,England,Super8,18,3,40.71,65.43,2,14,0,0,Pace-Friendly,162,Team_A,Bat,94.14,291.94,133,Team_A,3,4,4,3,1,0,0,1,0,1
+M0434,3/1/2026,Kolkata,Zimbabwe,Sri Lanka,Group,14,9,61.8,47.75,10,18,0,0,Spin-Friendly,165,Team_B,Bat,158.69,199.8,162,Team_A,19,16,5,1,2,1,0,0,0,1
+M0435,2/12/2026,Mumbai,Canada,Australia,Super8,18,2,51.43,80.0,1,1,0,0,Flat,175,Team_A,Bat,118.31,310.48,193,Team_B,3,1,6,3,0,0,0,1,0,0
+M0436,2/23/2026,Delhi,Zimbabwe,West Indies,Group,14,7,58.67,73.06,1,9,0,0,Pace-Friendly,170,Team_B,Field,143.63,263.96,199,Team_B,19,18,3,1,1,1,1,0,1,0
+M0437,2/18/2026,Chennai,West Indies,Ireland,Group,7,12,68.72,55.88,15,9,0,0,Spin-Friendly,155,Team_A,Bat,219.57,170.54,160,Team_B,18,6,1,1,2,0,0,1,0,0
+M0438,2/14/2026,Ahmedabad,Canada,India,Group,18,1,41.69,78.54,0,7,0,1,Flat,180,Team_A,Bat,89.98,324.84,168,Team_B,3,5,0,1,0,0,0,1,0,0
+M0439,2/18/2026,Ahmedabad,Nepal,Canada,Group,19,18,48.86,30.53,10,12,0,0,Flat,180,Team_A,Bat,92.3,85.59,154,Team_B,8,3,0,1,0,0,0,1,0,0
+M0440,2/8/2026,Delhi,Afghanistan,West Indies,Group,8,7,77.54,62.81,8,11,0,0,Pace-Friendly,170,Team_A,Field,215.38,211.76,174,Team_B,0,18,3,1,1,0,1,1,1,0
+M0441,2/10/2026,Colombo,New Zealand,Ireland,Group,5,12,84.0,53.37,7,6,0,0,Spin-Friendly,160,Team_B,Bat,260.86,145.48,159,Team_A,10,6,2,1,2,1,0,0,0,1
+M0442,2/13/2026,Kolkata,Afghanistan,PNG,Group,8,20,69.36,61.57,21,1,0,0,Spin-Friendly,165,Team_A,Bat,211.45,82.31,150,Team_A,0,12,5,1,2,0,0,1,0,1
+M0443,2/26/2026,Mumbai,USA,Namibia,Group,17,15,48.59,56.47,10,9,0,0,Flat,175,Team_A,Bat,109.91,134.02,167,Team_B,17,7,6,1,0,0,0,1,0,0
+M0444,2/10/2026,Delhi,Netherlands,Pakistan,Group,11,4,61.8,78.87,1,8,0,0,Pace-Friendly,170,Team_A,Field,193.52,264.47,177,Team_B,9,13,3,1,1,0,1,1,1,0
+M0445,2/15/2026,Kandy,Namibia,Ireland,Group,15,12,56.25,69.97,10,16,0,0,Pace-Friendly,162,Team_A,Bat,135.73,183.26,123,Team_B,7,6,4,1,1,0,0,1,0,0
+M0446,2/22/2026,Delhi,Australia,South Africa,Group,2,6,89.57,82.87,21,8,0,0,Pace-Friendly,170,Team_A,Field,303.96,262.9,167,Team_A,1,15,3,1,1,0,1,1,1,1
+M0447,2/28/2026,Ahmedabad,Bangladesh,Netherlands,Group,10,11,61.07,54.71,2,0,0,0,Flat,180,Team_A,Field,197.09,188.85,151,Team_B,2,9,0,1,0,0,1,1,1,0
+M0448,3/3/2026,Ahmedabad,Pakistan,Afghanistan,Group,4,8,77.54,63.44,7,9,0,0,Flat,180,Team_A,Field,281.34,218.98,195,Team_A,13,0,0,1,0,0,1,1,1,1
+M0449,2/21/2026,Kolkata,England,West Indies,Group,3,7,78.02,84.32,5,4,0,0,Spin-Friendly,165,Team_B,Field,297.03,245.1,158,Team_A,4,18,5,1,2,1,1,0,1,1
+M0450,3/6/2026,Ahmedabad,Zimbabwe,Nepal,Group,14,19,55.52,56.55,4,5,0,0,Flat,180,Team_B,Field,133.78,87.61,183,Team_A,19,8,0,1,0,1,1,0,1,1
+M0451,3/6/2026,Ahmedabad,Sri Lanka,South Africa,Group,9,6,63.43,82.19,10,14,0,0,Flat,180,Team_A,Bat,212.82,251.27,181,Team_A,16,15,0,1,0,0,0,1,0,1
+M0452,2/18/2026,Mumbai,Sri Lanka,West Indies,Group,9,7,79.08,61.08,12,16,0,0,Flat,175,Team_B,Field,231.41,237.35,183,Team_A,16,18,6,1,0,1,1,0,1,1
+M0453,3/5/2026,Mumbai,Scotland,Afghanistan,Group,13,8,48.93,74.56,7,3,0,0,Flat,175,Team_A,Bat,154.72,221.86,215,Team_B,14,0,6,1,0,0,0,1,0,0
+M0454,2/19/2026,Kandy,Australia,Pakistan,Group,2,4,82.44,62.48,14,8,0,0,Pace-Friendly,162,Team_B,Field,310.04,249.52,142,Team_A,1,13,4,1,1,1,1,0,1,1
+M0455,2/11/2026,Ahmedabad,Namibia,Zimbabwe,Group,15,14,48.99,41.91,12,10,0,0,Flat,180,Team_A,Field,125.47,134.11,172,Team_B,7,19,0,1,0,0,1,1,1,0
+M0456,2/22/2026,Delhi,Pakistan,New Zealand,Group,4,5,70.26,66.93,10,15,0,0,Pace-Friendly,170,Team_B,Bat,271.15,264.84,176,Team_A,13,10,3,1,1,1,0,0,0,1
+M0457,3/6/2026,Ahmedabad,West Indies,Scotland,Group,7,13,68.73,51.89,18,3,0,0,Flat,180,Team_A,Bat,234.91,165.12,178,Team_A,18,14,0,1,0,0,0,1,0,1
+M0458,2/8/2026,Chennai,Canada,Netherlands,Group,18,11,49.44,59.26,1,1,0,0,Spin-Friendly,155,Team_B,Field,103.46,171.89,147,Team_A,3,9,1,1,2,1,1,0,1,1
+M0459,3/3/2026,Delhi,Bangladesh,Australia,Super8,10,2,70.47,56.73,3,20,0,0,Pace-Friendly,170,Team_A,Field,214.95,278.58,174,Team_B,2,1,3,3,1,0,1,1,1,0
+M0460,3/1/2026,Delhi,New Zealand,PNG,Group,5,20,78.36,36.51,17,5,0,0,Pace-Friendly,170,Team_A,Bat,269.47,60.14,179,Team_A,10,12,3,1,1,0,0,1,0,1
+M0461,2/28/2026,Colombo,Zimbabwe,Oman,Group,14,16,24.93,46.25,12,8,0,0,Spin-Friendly,160,Team_B,Bat,119.92,95.29,139,Team_B,19,11,2,1,2,1,0,0,0,0
+M0462,2/8/2026,Delhi,Zimbabwe,South Africa,Super8,14,6,60.08,77.14,0,0,0,0,Pace-Friendly,170,Team_A,Field,150.41,254.79,124,Team_B,19,15,3,3,1,0,1,1,1,0
+M0463,2/9/2026,Kolkata,Pakistan,Scotland,Group,4,13,70.1,57.58,21,3,0,0,Spin-Friendly,165,Team_B,Bat,281.44,149.9,148,Team_A,13,14,5,1,2,1,0,0,0,1
+M0464,2/14/2026,Delhi,New Zealand,Zimbabwe,Group,5,14,77.23,50.74,10,7,0,0,Pace-Friendly,170,Team_B,Bat,261.22,138.72,149,Team_A,10,19,3,1,1,1,0,0,0,1
+M0465,2/25/2026,Kandy,Scotland,USA,Group,13,17,65.75,53.16,8,6,0,0,Pace-Friendly,162,Team_A,Field,167.95,125.02,155,Team_A,14,17,4,1,1,0,1,1,1,1
+M0466,3/2/2026,Chennai,Ireland,USA,Group,12,17,72.01,36.58,14,6,0,0,Spin-Friendly,155,Team_A,Bat,189.16,108.02,160,Team_A,6,17,1,1,2,0,0,1,0,1
+M0467,3/5/2026,Ahmedabad,Oman,New Zealand,Group,16,5,72.82,65.82,0,2,0,0,Flat,180,Team_B,Field,130.13,251.55,197,Team_B,11,10,0,1,0,1,1,0,1,0
+M0468,2/17/2026,Chennai,Pakistan,India,Super8,4,1,83.28,85.43,5,6,0,1,Spin-Friendly,155,Team_A,Field,274.46,314.01,152,Team_B,13,5,1,3,2,0,1,1,1,0
+M0469,2/26/2026,Kandy,South Africa,Oman,Group,6,16,79.0,54.51,15,4,0,0,Pace-Friendly,162,Team_B,Field,269.42,140.02,197,Team_A,15,11,4,1,1,1,1,0,1,1
+M0470,3/3/2026,Ahmedabad,South Africa,Afghanistan,Group,6,8,52.8,84.28,13,8,0,0,Flat,180,Team_A,Bat,230.11,240.05,187,Team_A,15,0,0,1,0,0,0,1,0,1
+M0471,2/16/2026,Kandy,Bangladesh,New Zealand,Group,10,5,75.71,78.95,5,12,0,0,Pace-Friendly,162,Team_B,Field,219.09,273.56,120,Team_A,2,10,4,1,1,1,1,0,1,1
+M0472,3/5/2026,Kolkata,Ireland,Canada,Group,12,18,55.91,51.33,15,7,0,0,Spin-Friendly,165,Team_B,Bat,157.34,113.03,151,Team_A,6,3,5,1,2,1,0,0,0,1
+M0473,2/19/2026,Kandy,England,New Zealand,Group,3,5,86.07,59.45,1,5,0,0,Pace-Friendly,162,Team_B,Field,311.85,267.06,152,Team_A,4,10,4,1,1,1,1,0,1,1
+M0474,2/20/2026,Kandy,India,Afghanistan,Group,1,8,81.96,58.02,1,0,0,0,Pace-Friendly,162,Team_A,Field,311.78,214.2,154,Team_A,5,0,4,1,1,0,1,1,1,1
+M0475,2/11/2026,Delhi,Bangladesh,Sri Lanka,Group,10,9,64.29,45.42,16,14,0,0,Pace-Friendly,170,Team_B,Bat,199.98,190.64,211,Team_B,2,16,3,1,1,1,0,0,0,0
+M0476,3/5/2026,Chennai,Nepal,Oman,Group,19,16,42.84,52.53,2,16,0,0,Spin-Friendly,155,Team_B,Field,75.79,114.83,187,Team_B,8,11,1,1,2,1,1,0,1,0
+M0477,2/25/2026,Colombo,Netherlands,Australia,Group,11,2,57.62,78.46,2,3,0,0,Spin-Friendly,160,Team_A,Bat,187.74,282.5,147,Team_B,9,1,2,1,2,0,0,1,0,0
+M0478,2/23/2026,Mumbai,Canada,Pakistan,Super8,18,4,38.4,76.87,4,24,0,0,Flat,175,Team_B,Bat,97.05,284.64,194,Team_B,3,13,6,3,0,1,0,0,0,0
+M0479,2/15/2026,Kolkata,England,Australia,Group,3,2,87.7,79.34,9,3,0,0,Spin-Friendly,165,Team_B,Field,298.57,315.47,143,Team_B,4,1,5,1,2,1,1,0,1,0
+M0480,2/26/2026,Chennai,Bangladesh,Nepal,Group,10,19,76.18,28.11,17,5,0,0,Spin-Friendly,155,Team_B,Field,213.14,66.42,134,Team_A,2,8,1,1,2,1,1,0,1,1
+M0481,3/8/2026,Colombo,South Africa,PNG,Group,6,20,84.19,17.12,13,4,0,0,Spin-Friendly,160,Team_A,Bat,251.69,51.24,118,Team_A,15,12,2,1,2,0,0,1,0,1
+M0482,3/8/2026,Mumbai,India,PNG,Group,1,20,92.06,53.42,21,0,1,0,Flat,175,Team_A,Field,325.97,76.72,159,Team_A,5,12,6,1,0,0,1,1,1,1
+M0483,2/24/2026,Delhi,USA,Netherlands,Super8,17,11,59.01,70.61,9,13,0,0,Pace-Friendly,170,Team_B,Field,121.41,205.28,204,Team_B,17,9,3,3,1,1,1,0,1,0
+M0484,2/25/2026,Delhi,Ireland,England,Group,12,3,53.4,58.62,9,21,0,0,Pace-Friendly,170,Team_B,Field,166.11,274.75,151,Team_B,6,4,3,1,1,1,1,0,1,0
+M0485,2/20/2026,Kandy,Australia,India,Super8,2,1,89.22,95.0,8,17,0,0,Pace-Friendly,162,Team_A,Field,322.66,344.43,147,Team_A,1,5,4,3,1,0,1,1,1,1
+M0486,2/8/2026,Colombo,West Indies,Netherlands,SemiFinal,7,11,87.71,59.81,4,2,0,0,Spin-Friendly,160,Team_B,Field,259.82,168.24,181,Team_A,18,9,2,2,2,1,1,0,1,1
+M0487,2/11/2026,Mumbai,England,USA,Super8,3,17,90.0,34.58,22,4,0,0,Flat,175,Team_A,Field,307.59,89.62,165,Team_A,4,17,6,3,0,0,1,1,1,1
+M0488,2/18/2026,Ahmedabad,South Africa,New Zealand,Super8,6,5,66.26,70.44,14,12,0,0,Flat,180,Team_B,Bat,241.25,272.28,203,Team_B,15,10,0,3,0,1,0,0,0,0
+M0489,2/14/2026,Kandy,Bangladesh,South Africa,Group,10,6,59.16,85.91,9,14,0,0,Pace-Friendly,162,Team_B,Bat,195.7,261.28,173,Team_B,2,15,4,1,1,1,0,0,0,0
+M0490,3/1/2026,Mumbai,Oman,England,Group,16,3,48.19,71.06,4,17,0,0,Flat,175,Team_A,Field,123.85,276.02,130,Team_B,11,4,6,1,0,0,1,1,1,0
+M0491,2/17/2026,Colombo,Oman,Ireland,Group,16,12,32.06,44.45,13,17,0,0,Spin-Friendly,160,Team_A,Bat,116.0,148.21,169,Team_A,11,6,2,1,2,0,0,1,0,1
+M0492,3/6/2026,Kandy,Scotland,Ireland,Group,13,12,80.45,52.58,13,14,0,0,Pace-Friendly,162,Team_B,Field,172.18,159.98,141,Team_B,14,6,4,1,1,1,1,0,1,0
+M0493,2/18/2026,Colombo,Namibia,India,Group,15,1,57.06,72.72,2,22,0,0,Spin-Friendly,160,Team_A,Field,136.51,301.27,168,Team_B,7,5,2,1,2,0,1,1,1,0
+M0494,2/28/2026,Kolkata,Nepal,PNG,Group,19,20,25.54,51.2,0,2,0,0,Spin-Friendly,165,Team_A,Field,59.01,77.82,169,Team_B,8,12,5,1,2,0,1,1,1,0
+M0495,2/20/2026,Ahmedabad,India,New Zealand,Super8,1,5,64.23,63.97,6,2,1,0,Flat,180,Team_B,Bat,293.66,246.78,180,Team_A,5,10,0,3,0,1,0,0,0,1
+M0496,2/21/2026,Mumbai,England,Pakistan,Group,3,4,88.02,77.17,15,7,0,0,Flat,175,Team_A,Bat,319.0,275.94,197,Team_B,4,13,6,1,0,0,0,1,0,0
+M0497,3/8/2026,Kandy,Netherlands,New Zealand,Group,11,5,61.95,71.01,5,15,0,0,Pace-Friendly,162,Team_B,Field,192.43,256.5,151,Team_B,9,10,4,1,1,1,1,0,1,0
+M0498,3/1/2026,Kandy,Ireland,Nepal,Group,12,19,84.34,49.32,4,6,0,0,Pace-Friendly,162,Team_A,Field,198.16,105.69,146,Team_A,6,8,4,1,1,0,1,1,1,1
+M0499,2/20/2026,Kolkata,Zimbabwe,Pakistan,Group,14,4,73.92,65.68,4,13,0,0,Spin-Friendly,165,Team_B,Bat,164.57,259.76,174,Team_B,19,13,5,1,2,1,0,0,0,0
+M0500,2/17/2026,Mumbai,South Africa,Ireland,Group,6,12,67.07,43.51,10,1,0,0,Flat,175,Team_B,Bat,253.67,162.45,178,Team_A,15,6,6,1,0,1,0,0,0,1
+M0501,3/5/2026,Delhi,Netherlands,England,Group,11,3,62.53,89.85,9,15,0,0,Pace-Friendly,170,Team_A,Bat,198.45,307.23,189,Team_B,9,4,3,1,1,0,0,1,0,0
+M0502,2/26/2026,Colombo,Scotland,Canada,Group,13,18,56.52,51.77,17,12,0,0,Spin-Friendly,160,Team_A,Field,160.31,87.96,141,Team_A,14,3,2,1,2,0,1,1,1,1
+M0503,2/10/2026,Kandy,South Africa,Scotland,SemiFinal,6,13,71.46,49.86,7,5,0,0,Pace-Friendly,162,Team_B,Field,242.3,156.12,159,Team_A,15,14,4,2,1,1,1,0,1,1
+M0504,3/3/2026,Kandy,USA,Bangladesh,Group,17,10,35.84,59.9,2,9,0,0,Pace-Friendly,162,Team_B,Field,94.42,184.66,150,Team_B,17,2,4,1,1,1,1,0,1,0
+M0505,2/23/2026,Mumbai,Nepal,Afghanistan,Group,19,8,14.71,86.53,0,2,0,0,Flat,175,Team_A,Bat,53.12,238.04,172,Team_B,8,0,6,1,0,0,0,1,0,0
+M0506,2/27/2026,Ahmedabad,Nepal,Australia,Group,19,2,45.27,70.65,0,2,0,0,Flat,180,Team_A,Field,86.52,302.84,158,Team_B,8,1,0,1,0,0,1,1,1,0
+M0507,3/5/2026,Chennai,Zimbabwe,Bangladesh,Group,14,10,49.88,63.32,3,0,0,0,Spin-Friendly,155,Team_A,Field,135.58,209.49,129,Team_B,19,2,1,1,2,0,1,1,1,0
+M0508,2/20/2026,Kandy,Scotland,Australia,Group,13,2,59.19,79.31,3,17,0,0,Pace-Friendly,162,Team_A,Field,172.21,286.47,200,Team_B,14,1,4,1,1,0,1,1,1,0
+M0509,2/8/2026,Mumbai,India,Ireland,Group,1,12,76.98,31.97,2,0,1,0,Flat,175,Team_A,Bat,309.06,151.63,190,Team_A,5,6,6,1,0,0,0,1,0,1
+M0510,3/5/2026,Delhi,Zimbabwe,Netherlands,Group,14,11,40.06,54.34,1,6,0,0,Pace-Friendly,170,Team_B,Bat,138.03,176.06,216,Team_B,19,9,3,1,1,1,0,0,0,0
+M0511,2/7/2026,Mumbai,India,Scotland,Group,1,13,88.16,55.52,11,1,1,0,Flat,175,Team_A,Bat,312.18,150.22,180,Team_A,5,14,6,1,0,0,0,1,0,1
+M0512,3/2/2026,Kandy,Nepal,Pakistan,Final,19,4,39.04,79.96,2,16,0,0,Pace-Friendly,162,Team_A,Field,81.62,281.47,158,Team_B,8,13,4,0,1,0,1,1,1,0
+M0513,2/16/2026,Ahmedabad,South Africa,Pakistan,Group,6,4,82.21,65.23,11,14,0,0,Flat,180,Team_B,Bat,275.02,269.5,195,Team_A,15,13,0,1,0,1,0,0,0,1
+M0514,2/19/2026,Chennai,West Indies,New Zealand,Group,7,5,69.6,68.34,9,17,0,0,Spin-Friendly,155,Team_A,Field,244.63,233.8,108,Team_A,18,10,1,1,2,0,1,1,1,1
+M0515,3/4/2026,Chennai,Australia,PNG,Group,2,20,68.34,58.29,25,0,0,0,Spin-Friendly,155,Team_B,Field,293.29,74.94,106,Team_A,1,12,1,1,2,1,1,0,1,1
+M0516,3/6/2026,Kandy,USA,West Indies,Group,17,7,59.43,50.67,6,17,0,0,Pace-Friendly,162,Team_B,Field,121.0,212.36,215,Team_A,17,18,4,1,1,1,1,0,1,1
+M0517,2/10/2026,Kolkata,Namibia,South Africa,Super8,15,6,58.79,61.88,0,1,0,0,Spin-Friendly,165,Team_A,Field,147.23,228.88,145,Team_B,7,15,5,3,2,0,1,1,1,0
+M0518,2/16/2026,Ahmedabad,Namibia,West Indies,Group,15,7,58.15,85.79,3,3,0,0,Flat,180,Team_B,Bat,146.84,269.12,172,Team_B,7,18,0,1,0,1,0,0,0,0
+M0519,2/12/2026,Kolkata,Zimbabwe,India,Group,14,1,48.69,64.32,1,4,0,1,Spin-Friendly,165,Team_A,Field,123.51,299.28,152,Team_B,19,5,5,1,2,0,1,1,1,0
+M0520,3/4/2026,Colombo,South Africa,West Indies,Group,6,7,79.94,58.92,14,4,0,0,Spin-Friendly,160,Team_A,Field,257.06,224.7,127,Team_B,15,18,2,1,2,0,1,1,1,0
+M0521,2/27/2026,Chennai,USA,New Zealand,Group,17,5,50.33,64.43,4,13,0,0,Spin-Friendly,155,Team_A,Bat,111.76,227.55,153,Team_B,17,10,1,1,2,0,0,1,0,0
+M0522,2/25/2026,Colombo,Ireland,Zimbabwe,Group,12,14,67.36,55.85,8,7,0,0,Spin-Friendly,160,Team_B,Bat,174.98,155.94,165,Team_B,6,19,2,1,2,1,0,0,0,0
+M0523,2/26/2026,Mumbai,Canada,PNG,Group,18,20,33.3,44.87,2,0,0,0,Flat,175,Team_A,Bat,79.86,69.68,154,Team_A,3,12,6,1,0,0,0,1,0,1
+M0524,3/1/2026,Mumbai,USA,Afghanistan,Group,17,8,32.44,84.63,5,13,0,0,Flat,175,Team_A,Bat,95.41,224.28,156,Team_B,17,0,6,1,0,0,0,1,0,0
+M0525,2/12/2026,Chennai,India,USA,Final,1,17,92.4,44.04,0,0,1,0,Spin-Friendly,155,Team_B,Bat,337.09,110.3,169,Team_A,5,17,1,0,2,1,0,0,0,1
+M0526,2/15/2026,Chennai,Nepal,West Indies,Group,19,7,63.03,75.54,6,20,0,0,Spin-Friendly,155,Team_B,Bat,95.25,248.4,152,Team_B,8,18,1,1,2,1,0,0,0,0
+M0527,2/21/2026,Chennai,Oman,Afghanistan,Group,16,8,41.76,58.81,2,9,0,0,Spin-Friendly,155,Team_B,Field,109.76,230.01,147,Team_B,11,0,1,1,2,1,1,0,1,0
+M0528,3/5/2026,Ahmedabad,PNG,England,Group,20,3,49.92,83.86,0,8,0,0,Flat,180,Team_A,Field,69.92,293.34,182,Team_B,12,4,0,1,0,0,1,1,1,0
+M0529,2/9/2026,Colombo,Sri Lanka,Pakistan,Group,9,4,62.21,77.96,10,13,1,0,Spin-Friendly,160,Team_A,Field,219.49,285.19,158,Team_B,16,13,2,1,2,0,1,1,1,0
+M0530,2/25/2026,Kandy,Canada,New Zealand,Group,18,5,49.82,63.79,4,14,0,0,Pace-Friendly,162,Team_B,Field,90.44,258.6,139,Team_B,3,10,4,1,1,1,1,0,1,0
+M0531,2/24/2026,Mumbai,Netherlands,Nepal,Group,11,19,78.98,34.52,18,10,0,0,Flat,175,Team_B,Field,200.97,63.18,153,Team_A,9,8,6,1,0,1,1,0,1,1
+M0532,2/25/2026,Kandy,Oman,PNG,Group,16,20,51.09,42.76,15,8,0,0,Pace-Friendly,162,Team_B,Bat,126.47,75.69,170,Team_A,11,12,4,1,1,1,0,0,0,1
+M0533,2/23/2026,Mumbai,Sri Lanka,Canada,Group,9,18,62.76,50.58,0,0,0,0,Flat,175,Team_A,Field,206.58,96.35,163,Team_A,16,3,6,1,0,0,1,1,1,1
+M0534,3/3/2026,Kolkata,Nepal,New Zealand,Final,19,5,53.9,66.13,4,12,0,0,Spin-Friendly,165,Team_A,Field,100.17,245.88,171,Team_B,8,10,5,0,2,0,1,1,1,0
+M0535,3/6/2026,Colombo,New Zealand,Australia,Group,5,2,76.45,69.74,17,13,0,0,Spin-Friendly,160,Team_A,Field,250.57,293.58,178,Team_B,10,1,2,1,2,0,1,1,1,0
+M0536,3/3/2026,Kolkata,Pakistan,Oman,Group,4,16,63.54,50.29,13,2,0,0,Spin-Friendly,165,Team_A,Bat,265.32,120.79,154,Team_A,13,11,5,1,2,0,0,1,0,1
+M0537,2/23/2026,Kolkata,South Africa,Netherlands,Group,6,11,77.31,65.9,14,15,0,0,Spin-Friendly,165,Team_B,Bat,255.85,183.29,154,Team_B,15,9,5,1,2,1,0,0,0,0
+M0538,2/27/2026,Ahmedabad,Ireland,Afghanistan,Group,12,8,66.46,77.51,3,7,0,0,Flat,180,Team_A,Field,181.54,228.1,178,Team_B,6,0,0,1,0,0,1,1,1,0
+M0539,3/2/2026,Kandy,PNG,Netherlands,Group,20,11,53.92,59.16,2,6,0,0,Pace-Friendly,162,Team_A,Bat,87.43,182.49,155,Team_B,12,9,4,1,1,0,0,1,0,0
+M0540,2/9/2026,Kandy,Netherlands,Afghanistan,Group,11,8,60.91,84.07,7,9,0,0,Pace-Friendly,162,Team_B,Bat,197.11,232.85,189,Team_B,9,0,4,1,1,1,0,0,0,0
+M0541,3/5/2026,Mumbai,Namibia,Scotland,Group,15,13,64.18,66.57,11,16,0,0,Flat,175,Team_B,Bat,150.27,176.64,161,Team_B,7,14,6,1,0,1,0,0,0,0
+M0542,3/7/2026,Delhi,USA,Sri Lanka,Group,17,9,48.73,65.87,1,3,0,0,Pace-Friendly,170,Team_B,Bat,103.8,203.18,179,Team_B,17,16,3,1,1,1,0,0,0,0
+M0543,2/11/2026,Kolkata,Scotland,England,Group,13,3,50.75,89.52,0,5,0,0,Spin-Friendly,165,Team_A,Bat,150.15,293.41,166,Team_B,14,4,5,1,2,0,0,1,0,0
+M0544,2/20/2026,Kolkata,Oman,Canada,SemiFinal,16,18,36.32,33.47,14,11,0,0,Spin-Friendly,165,Team_B,Field,112.42,78.6,237,Team_A,11,3,5,2,2,1,1,0,1,1
+M0545,2/25/2026,Kolkata,Afghanistan,Canada,Super8,8,18,64.19,44.94,3,2,0,0,Spin-Friendly,165,Team_B,Bat,213.76,105.3,172,Team_A,0,3,5,3,2,1,0,0,0,1
+M0546,2/11/2026,Kolkata,Afghanistan,England,Group,8,3,71.1,71.15,8,12,0,0,Spin-Friendly,165,Team_A,Field,223.5,258.62,152,Team_A,0,4,5,1,2,0,1,1,1,1
+M0547,2/23/2026,Kolkata,England,Sri Lanka,SemiFinal,3,9,55.82,65.45,19,11,0,0,Spin-Friendly,165,Team_B,Field,261.79,216.82,165,Team_A,4,16,5,2,2,1,1,0,1,1
+M0548,3/2/2026,Colombo,Namibia,Nepal,Group,15,19,37.91,39.91,20,1,0,0,Spin-Friendly,160,Team_B,Field,110.99,84.08,158,Team_A,7,8,2,1,2,1,1,0,1,1
+M0549,3/6/2026,Chennai,USA,Zimbabwe,Group,17,14,38.05,52.18,6,9,0,0,Spin-Friendly,155,Team_A,Bat,84.98,129.87,185,Team_B,17,19,1,1,2,0,0,1,0,0
+M0550,3/5/2026,Delhi,USA,Nepal,Group,17,19,46.94,39.46,11,13,0,0,Pace-Friendly,170,Team_A,Field,103.8,63.71,207,Team_A,17,8,3,1,1,0,1,1,1,1
+M0551,2/17/2026,Colombo,Pakistan,USA,Group,4,17,76.77,47.78,24,5,0,0,Spin-Friendly,160,Team_B,Field,277.56,91.57,145,Team_A,13,17,2,1,2,1,1,0,1,1
+M0552,2/10/2026,Kolkata,Pakistan,Ireland,Group,4,12,59.79,52.83,0,0,0,0,Spin-Friendly,165,Team_A,Field,266.6,158.85,133,Team_A,13,6,5,1,2,0,1,1,1,1
+M0553,2/11/2026,Kandy,Zimbabwe,Australia,Group,14,2,36.29,82.72,3,16,0,0,Pace-Friendly,162,Team_A,Bat,137.65,304.3,184,Team_B,19,1,4,1,1,0,0,1,0,0
+M0554,2/24/2026,Kandy,West Indies,Pakistan,Group,7,4,60.78,70.88,10,6,0,0,Pace-Friendly,162,Team_A,Bat,231.17,270.27,134,Team_B,18,13,4,1,1,0,0,1,0,0
+M0555,3/5/2026,Delhi,Namibia,England,Group,15,3,56.64,70.49,0,0,0,0,Pace-Friendly,170,Team_B,Field,132.71,285.85,167,Team_B,7,4,3,1,1,1,1,0,1,0
+M0556,2/20/2026,Delhi,West Indies,Canada,Group,7,18,59.95,46.85,3,4,0,0,Pace-Friendly,170,Team_B,Field,236.24,95.15,168,Team_A,18,3,3,1,1,1,1,0,1,1
+M0557,3/8/2026,Colombo,Oman,West Indies,Group,16,7,50.08,64.74,8,16,0,0,Spin-Friendly,160,Team_A,Field,112.96,222.42,115,Team_B,11,18,2,1,2,0,1,1,1,0
+M0558,2/9/2026,Kandy,Ireland,Bangladesh,Group,12,10,67.33,39.67,3,6,0,0,Pace-Friendly,162,Team_B,Bat,175.79,178.58,132,Team_A,6,2,4,1,1,1,0,0,0,1
+M0559,2/25/2026,Ahmedabad,Oman,Netherlands,Super8,16,11,56.55,68.11,7,9,0,0,Flat,180,Team_A,Bat,129.86,184.54,169,Team_B,11,9,0,3,0,0,0,1,0,0
+M0560,2/17/2026,Kandy,Scotland,PNG,Group,13,20,50.96,41.05,10,3,0,0,Pace-Friendly,162,Team_B,Bat,153.1,70.86,141,Team_A,14,12,4,1,1,1,0,0,0,1
+M0561,3/6/2026,Mumbai,Bangladesh,West Indies,Group,10,7,58.0,70.69,11,6,0,0,Flat,175,Team_B,Bat,203.32,237.77,168,Team_B,2,18,6,1,0,1,0,0,0,0
+M0562,3/3/2026,Chennai,South Africa,India,Group,6,1,66.2,76.69,4,2,0,1,Spin-Friendly,155,Team_B,Field,247.65,314.54,135,Team_B,15,5,1,1,2,1,1,0,1,0
+M0563,2/24/2026,Delhi,Netherlands,Namibia,Group,11,15,70.36,37.77,10,5,0,0,Pace-Friendly,170,Team_B,Field,198.74,112.3,185,Team_A,9,7,3,1,1,1,1,0,1,1
+M0564,3/2/2026,Chennai,Namibia,Afghanistan,Group,15,8,49.22,62.63,1,3,0,0,Spin-Friendly,155,Team_A,Field,135.85,213.65,181,Team_B,7,0,1,1,2,0,1,1,1,0
+M0565,2/10/2026,Kolkata,Canada,Bangladesh,Group,18,10,56.91,57.37,1,5,0,0,Spin-Friendly,165,Team_B,Field,114.59,195.81,167,Team_B,3,2,5,1,2,1,1,0,1,0
+M0566,3/1/2026,Colombo,Namibia,Sri Lanka,Group,15,9,40.9,75.47,0,1,0,1,Spin-Friendly,160,Team_A,Bat,108.53,231.4,145,Team_B,7,16,2,1,2,0,0,1,0,0
+M0567,2/11/2026,Kandy,Zimbabwe,England,Group,14,3,49.48,68.11,1,14,0,0,Pace-Friendly,162,Team_B,Bat,134.99,280.54,169,Team_B,19,4,4,1,1,1,0,0,0,0
+M0568,2/8/2026,Delhi,South Africa,Nepal,Final,6,19,76.63,35.93,19,4,0,0,Pace-Friendly,170,Team_B,Field,260.95,83.9,156,Team_A,15,8,3,0,1,1,1,0,1,1
+M0569,3/1/2026,Mumbai,Nepal,Sri Lanka,Group,19,9,33.03,49.23,9,21,0,0,Flat,175,Team_A,Field,76.08,192.14,209,Team_B,8,16,6,1,0,0,1,1,1,0
+M0570,2/7/2026,Chennai,Nepal,England,Group,19,3,41.6,59.3,0,6,0,0,Spin-Friendly,155,Team_B,Bat,84.01,266.71,114,Team_B,8,4,1,1,2,1,0,0,0,0
+M0571,2/20/2026,Delhi,Scotland,Ireland,Group,13,12,55.36,63.36,13,14,0,0,Pace-Friendly,170,Team_B,Bat,166.15,176.94,201,Team_B,14,6,3,1,1,1,0,0,0,0
+M0572,3/4/2026,Chennai,Netherlands,South Africa,SemiFinal,11,6,54.59,80.67,0,0,0,0,Spin-Friendly,155,Team_A,Field,172.24,260.68,176,Team_B,9,15,1,2,2,0,1,1,1,0
+M0573,2/23/2026,Colombo,Namibia,West Indies,Group,15,7,56.29,71.8,5,12,0,0,Spin-Friendly,160,Team_B,Field,134.1,232.04,180,Team_B,7,18,2,1,2,1,1,0,1,0
+M0574,2/8/2026,Delhi,PNG,New Zealand,Final,20,5,34.58,84.92,2,10,0,0,Pace-Friendly,170,Team_A,Field,70.07,271.02,156,Team_B,12,10,3,0,1,0,1,1,1,0
+M0575,3/5/2026,Chennai,Nepal,Bangladesh,Group,19,10,54.09,53.55,5,15,0,0,Spin-Friendly,155,Team_A,Field,87.02,172.44,164,Team_B,8,2,1,1,2,0,1,1,1,0
+M0576,2/24/2026,Delhi,Australia,Bangladesh,Group,2,10,67.86,70.48,21,8,0,0,Pace-Friendly,170,Team_B,Bat,289.76,202.59,195,Team_A,1,2,3,1,1,1,0,0,0,1
+M0577,2/26/2026,Colombo,Ireland,Oman,Group,12,16,46.21,51.72,3,3,0,0,Spin-Friendly,160,Team_A,Field,168.36,124.99,145,Team_A,6,11,2,1,2,0,1,1,1,1
+M0578,2/22/2026,Delhi,India,Namibia,Group,1,15,74.29,53.97,18,6,1,0,Pace-Friendly,170,Team_B,Field,302.69,130.99,196,Team_A,5,7,3,1,1,1,1,0,1,1
+M0579,2/11/2026,Colombo,India,England,Group,1,3,74.03,52.1,12,15,0,0,Spin-Friendly,160,Team_A,Field,314.86,255.14,150,Team_B,5,4,2,1,2,0,1,1,1,0
+M0580,2/25/2026,Delhi,India,Bangladesh,Group,1,10,76.71,65.59,9,3,1,0,Pace-Friendly,170,Team_A,Bat,312.03,193.72,212,Team_A,5,2,3,1,1,0,0,1,0,1
+M0581,2/16/2026,Colombo,Pakistan,PNG,Final,4,20,68.19,35.89,22,0,0,0,Spin-Friendly,160,Team_B,Field,272.03,46.87,172,Team_A,13,12,2,0,2,1,1,0,1,1
+M0582,3/6/2026,Kandy,Sri Lanka,Pakistan,Group,9,4,69.89,73.16,13,17,1,0,Pace-Friendly,162,Team_B,Field,214.28,281.31,161,Team_B,16,13,4,1,1,1,1,0,1,0
+M0583,2/12/2026,Kolkata,India,USA,SemiFinal,1,17,83.11,29.1,24,3,1,0,Spin-Friendly,165,Team_A,Bat,307.91,88.68,153,Team_A,5,17,5,2,2,0,0,1,0,1
+M0584,3/1/2026,Colombo,Sri Lanka,Ireland,Group,9,12,64.77,59.24,13,10,1,0,Spin-Friendly,160,Team_A,Bat,220.51,160.84,203,Team_A,16,6,2,1,2,0,0,1,0,1
+M0585,2/24/2026,Chennai,Sri Lanka,Zimbabwe,Super8,9,14,95.0,42.77,1,0,0,0,Spin-Friendly,155,Team_A,Field,234.9,133.09,149,Team_A,16,19,1,3,2,0,1,1,1,1
+M0586,2/15/2026,Ahmedabad,Ireland,West Indies,Group,12,7,56.73,59.74,8,11,0,0,Flat,180,Team_A,Bat,158.82,227.57,175,Team_B,6,18,0,1,0,0,0,1,0,0
+M0587,2/14/2026,Kolkata,Namibia,Oman,Group,15,16,31.35,50.28,11,12,0,0,Spin-Friendly,165,Team_B,Field,109.91,113.92,159,Team_A,7,11,5,1,2,1,1,0,1,1
+M0588,2/7/2026,Kolkata,Scotland,Pakistan,Group,13,4,56.29,71.3,1,0,0,0,Spin-Friendly,165,Team_B,Field,148.58,269.85,165,Team_B,14,13,5,1,2,1,1,0,1,0
+M0589,2/24/2026,Kandy,Australia,New Zealand,Group,2,5,64.33,77.93,17,12,0,0,Pace-Friendly,162,Team_B,Field,282.25,268.91,142,Team_A,1,10,4,1,1,1,1,0,1,1
+M0590,2/12/2026,Delhi,Namibia,Zimbabwe,Group,15,14,67.75,54.29,5,13,0,0,Pace-Friendly,170,Team_B,Field,143.07,149.88,158,Team_B,7,19,3,1,1,1,1,0,1,0
+M0591,2/27/2026,Delhi,Canada,Zimbabwe,Group,18,14,41.19,60.96,8,12,0,0,Pace-Friendly,170,Team_B,Field,92.3,150.55,223,Team_B,3,19,3,1,1,1,1,0,1,0
+M0592,2/21/2026,Ahmedabad,Ireland,Zimbabwe,Group,12,14,45.65,42.78,7,2,0,0,Flat,180,Team_B,Bat,155.0,134.7,219,Team_A,6,19,0,1,0,1,0,0,0,1
+M0593,3/5/2026,Delhi,Ireland,PNG,Super8,12,20,66.62,27.84,17,7,0,0,Pace-Friendly,170,Team_A,Bat,195.19,57.73,143,Team_A,6,12,3,3,1,0,0,1,0,1
+M0594,3/3/2026,Chennai,Pakistan,Afghanistan,Group,4,8,82.74,65.7,8,7,0,0,Spin-Friendly,155,Team_B,Bat,268.61,230.09,156,Team_A,13,0,1,1,2,1,0,0,0,1
+M0595,3/4/2026,Kolkata,England,Netherlands,Group,3,11,83.01,88.15,0,0,0,0,Spin-Friendly,165,Team_B,Bat,299.97,195.88,156,Team_A,4,9,5,1,2,1,0,0,0,1
+M0596,2/12/2026,Kolkata,England,Zimbabwe,Group,3,14,77.24,61.1,19,3,0,0,Spin-Friendly,165,Team_B,Field,294.94,154.29,164,Team_A,4,19,5,1,2,1,1,0,1,1
+M0597,2/14/2026,Colombo,Australia,England,Group,2,3,85.5,78.79,8,8,0,0,Spin-Friendly,160,Team_B,Bat,296.33,278.65,187,Team_B,1,4,2,1,2,1,0,0,0,0
+M0598,2/13/2026,Chennai,Canada,Australia,Group,18,2,36.86,72.24,4,23,0,0,Spin-Friendly,155,Team_A,Bat,70.96,285.08,149,Team_B,3,1,1,1,2,0,0,1,0,0
+M0599,2/21/2026,Delhi,Namibia,Pakistan,Group,15,4,48.37,53.93,1,7,0,0,Pace-Friendly,170,Team_B,Bat,129.25,253.03,197,Team_A,7,13,3,1,1,1,0,0,0,1
+M0600,2/7/2026,Delhi,Netherlands,Canada,Group,11,18,56.36,46.5,5,0,0,0,Pace-Friendly,170,Team_A,Bat,192.85,96.3,187,Team_A,9,3,3,1,1,0,0,1,0,1
